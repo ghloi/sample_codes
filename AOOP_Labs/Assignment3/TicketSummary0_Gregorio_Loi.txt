@@ -1,0 +1,444 @@
+==============
+Ticket Summary
+==============
+Event Type: Sport
+Event Name: UTEP Basketball 8
+Event Date: 12/13/21
+Ticket Type: Gold Ticket
+Number of Tickets: 4
+Total Price: $122.4
+Confirmation: ec553b9f-47ae-4e86-a2b9-28dc8fb6dd10
+==========================================
+
+Event Type: Concert
+Event Name: The Weeknd Live
+Event Date: 10/18/21
+Ticket Type: Gold Ticket
+Number of Tickets: 5
+Total Price: $2469.5
+Confirmation: 9de1574d-82a9-4765-85bf-8e16b5d0c1f3
+==========================================
+
+Event Type: Sport
+Event Name: UTEP Football 2
+Event Date: 9/11/21
+Ticket Type: VIP Ticket
+Number of Tickets: 5
+Total Price: $152.25
+Confirmation: 1411cc12-ec59-4e16-bacb-d0a9870e8f06
+==========================================
+
+Event Type: Concert
+Event Name: Eminem Live
+Event Date: 10/16/21
+Ticket Type: Silver Ticket
+Number of Tickets: 2
+Total Price: $760.3
+Confirmation: b61b5dc4-e6b6-42fd-bd04-80ecbc521799
+==========================================
+
+Event Type: Sport
+Event Name: UTEP Basketball 19
+Event Date: 1/22/22
+Ticket Type: VIP Ticket
+Number of Tickets: 5
+Total Price: $157.5
+Confirmation: d90ee743-b73f-4771-bca6-514d25419d1e
+==========================================
+
+Event Type: Sport
+Event Name: UTEP Basketball 16
+Event Date: 1/10/22
+Ticket Type: Silver Ticket
+Number of Tickets: 3
+Total Price: $76.5
+Confirmation: 504c840c-9b41-4593-a29c-51e43de14e11
+==========================================
+
+Event Type: Sport
+Event Name: UTEP Basketball 3
+Event Date: 11/27/21
+Ticket Type: Silver Ticket
+Number of Tickets: 4
+Total Price: $90.0
+Confirmation: f1148c99-60d1-4c39-bbc3-918ff077d9b0
+==========================================
+
+Event Type: Sport
+Event Name: UTEP Basketball 3
+Event Date: 11/27/21
+Ticket Type: Bronze Ticket
+Number of Tickets: 2
+Total Price: $39.0
+Confirmation: 565e0c55-d888-417a-98c0-c5e0bec9794d
+==========================================
+
+Event Type: Sport
+Event Name: UTEP Football 12
+Event Date: 11/20/21
+Ticket Type: Silver Ticket
+Number of Tickets: 3
+Total Price: $72.0
+Confirmation: 386eb42b-73c0-4579-81f8-a4fead8cdbd6
+==========================================
+
+Event Type: Concert
+Event Name: UTEP Wind Symphony 4
+Event Date: 12/10/21
+Ticket Type: VIP Ticket
+Number of Tickets: 6
+Total Price: $243.78000000000003
+Confirmation: d406336d-d27b-41ea-8c11-3eff3e179f7e
+==========================================
+
+Event Type: Sport
+Event Name: UTEP Basketball 5
+Event Date: 12/4/21
+Ticket Type: General Ticket
+Number of Tickets: 4
+Total Price: $60.0
+Confirmation: 7e5be813-4691-41bd-9c93-815336d892a9
+==========================================
+
+Event Type: Concert
+Event Name: UTEP Wind Symphony 5
+Event Date: 2/2/22
+Ticket Type: VIP Ticket
+Number of Tickets: 5
+Total Price: $203.15
+Confirmation: 81397396-982f-43dd-83d9-2c94c08ca962
+==========================================
+
+Event Type: Sport
+Event Name: UTEP Football 2
+Event Date: 9/11/21
+Ticket Type: Gold Ticket
+Number of Tickets: 3
+Total Price: $78.30000000000001
+Confirmation: ce3f3c72-1946-4e70-9ec4-9523c3140f45
+==========================================
+
+Event Type: Concert
+Event Name: UTEP Wind Symphony 1
+Event Date: 1/18/22
+Ticket Type: VIP Ticket
+Number of Tickets: 4
+Total Price: $162.52
+Confirmation: d645d3a0-778a-4f73-8eb1-b03d64509177
+==========================================
+
+Event Type: Sport
+Event Name: UTEP Basketball 4
+Event Date: 11/29/21
+Ticket Type: General Ticket
+Number of Tickets: 6
+Total Price: $102.0
+Confirmation: ba713b59-d14f-4f8a-a3aa-ff780ae4a828
+==========================================
+
+Event Type: Sport
+Event Name: UTEP Basketball 15
+Event Date: 1/8/22
+Ticket Type: Silver Ticket
+Number of Tickets: 3
+Total Price: $67.5
+Confirmation: 42df028d-46bc-4b73-a848-56ca73b8a181
+==========================================
+
+Event Type: Sport
+Event Name: UTEP Basketball 5
+Event Date: 12/4/21
+Ticket Type: Gold Ticket
+Number of Tickets: 2
+Total Price: $54.0
+Confirmation: e809a730-c5f0-4446-b6d2-ab0636812f23
+==========================================
+
+Event Type: Concert
+Event Name: UTEP Wind Symphony 6
+Event Date: 9/24/21
+Ticket Type: VIP Ticket
+Number of Tickets: 5
+Total Price: $203.15
+Confirmation: 17b388ce-2ff7-4a4a-9853-1d5636f23c05
+==========================================
+
+Event Type: Sport
+Event Name: UTEP Basketball 31
+Event Date: 3/5/22
+Ticket Type: Silver Ticket
+Number of Tickets: 5
+Total Price: $112.5
+Confirmation: 957aed0c-ca60-4442-bc36-ee4da9457d0c
+==========================================
+
+Event Type: Sport
+Event Name: UTEP Basketball 24
+Event Date: 2/7/22
+Ticket Type: Silver Ticket
+Number of Tickets: 3
+Total Price: $76.5
+Confirmation: 7c53fc7f-afca-42c9-9c9e-b9f4628d4ebc
+==========================================
+
+Event Type: Sport
+Event Name: UTEP Basketball 13
+Event Date: 1/1/22
+Ticket Type: Gold Ticket
+Number of Tickets: 5
+Total Price: $135.0
+Confirmation: 947cff1d-0e6e-457b-9750-01ea3d59fdad
+==========================================
+
+Event Type: Sport
+Event Name: UTEP Basketball 13
+Event Date: 1/1/22
+Ticket Type: VIP Ticket
+Number of Tickets: 3
+Total Price: $94.5
+Confirmation: 61a55ebc-0be2-4437-95af-a1e0acc2934f
+==========================================
+
+Event Type: Sport
+Event Name: UTEP Basketball 10
+Event Date: 12/20/21
+Ticket Type: General Ticket
+Number of Tickets: 6
+Total Price: $102.0
+Confirmation: 8b28e7ae-a8c8-494f-9ce7-bc8b8162ce5b
+==========================================
+
+Event Type: Sport
+Event Name: UTEP Basketball 15
+Event Date: 1/8/22
+Ticket Type: VIP Ticket
+Number of Tickets: 6
+Total Price: $189.0
+Confirmation: 886257e6-56cf-4c4f-a928-522f88e6b52d
+==========================================
+
+Event Type: Sport
+Event Name: UTEP Basketball 23
+Event Date: 2/5/22
+Ticket Type: Bronze Ticket
+Number of Tickets: 3
+Total Price: $58.5
+Confirmation: f60f132a-90f9-4e7e-b047-0151fbcdc4eb
+==========================================
+
+Event Type: Concert
+Event Name: UTEP Wind Symphony 2
+Event Date: 10/27/21
+Ticket Type: Gold Ticket
+Number of Tickets: 4
+Total Price: $107.52
+Confirmation: 19d31ac8-8c8a-438b-9adf-468e5dbb3a4d
+==========================================
+
+Event Type: Sport
+Event Name: UTEP Basketball 27
+Event Date: 2/19/22
+Ticket Type: General Ticket
+Number of Tickets: 5
+Total Price: $75.0
+Confirmation: 4be83dae-6b5d-497d-b47f-e08b48685848
+==========================================
+
+Event Type: Sport
+Event Name: UTEP Basketball 18
+Event Date: 1/17/22
+Ticket Type: Silver Ticket
+Number of Tickets: 2
+Total Price: $51.0
+Confirmation: b9b155d7-d090-4ff6-a43f-9ac0b893a42f
+==========================================
+
+Event Type: Sport
+Event Name: UTEP Football 1
+Event Date: 9/4/21
+Ticket Type: Bronze Ticket
+Number of Tickets: 5
+Total Price: $94.25
+Confirmation: 32d147dd-ca2b-481a-bcb2-f62aafffeb04
+==========================================
+
+Event Type: Concert
+Event Name: UTEP Wind Symphony 10
+Event Date: 3/2/22
+Ticket Type: Gold Ticket
+Number of Tickets: 3
+Total Price: $80.64
+Confirmation: fc5ee43d-6d4c-4c76-b91f-21dade4916ee
+==========================================
+
+Event Type: Sport
+Event Name: UTEP Basketball 12
+Event Date: 12/27/21
+Ticket Type: General Ticket
+Number of Tickets: 3
+Total Price: $51.0
+Confirmation: 1173c477-f2d9-433c-8d24-b37e692bce9d
+==========================================
+
+Event Type: Sport
+Event Name: UTEP Basketball 31
+Event Date: 3/5/22
+Ticket Type: VIP Ticket
+Number of Tickets: 6
+Total Price: $189.0
+Confirmation: 2f75b99e-036e-465d-a585-df7f0c47f1c3
+==========================================
+
+Event Type: Sport
+Event Name: UTEP Basketball 19
+Event Date: 1/22/22
+Ticket Type: Bronze Ticket
+Number of Tickets: 3
+Total Price: $58.5
+Confirmation: fc31909a-8ffc-4ea0-bfc7-2e366dcd1f60
+==========================================
+
+Event Type: Sport
+Event Name: UTEP Football 11
+Event Date: 11/13/21
+Ticket Type: VIP Ticket
+Number of Tickets: 5
+Total Price: $168.0
+Confirmation: fbb14832-4cf4-4c11-8686-16ec002c8551
+==========================================
+
+Event Type: Concert
+Event Name: UTEP Wind Symphony 4
+Event Date: 12/10/21
+Ticket Type: General Ticket
+Number of Tickets: 3
+Total Price: $18.75
+Confirmation: dd3e02a5-28d3-4380-a8c2-e62edfec3035
+==========================================
+
+Event Type: Concert
+Event Name: UTEP Wind Symphony 1
+Event Date: 1/18/22
+Ticket Type: VIP Ticket
+Number of Tickets: 2
+Total Price: $81.26
+Confirmation: 808693c3-887e-4be1-9a44-d05d257c14c0
+==========================================
+
+Event Type: Sport
+Event Name: UTEP Basketball 10
+Event Date: 12/20/21
+Ticket Type: General Ticket
+Number of Tickets: 6
+Total Price: $102.0
+Confirmation: 0853fafe-2f80-4cbf-b3a4-771ccd701dd1
+==========================================
+
+Event Type: Sport
+Event Name: UTEP Basketball 20
+Event Date: 1/24/22
+Ticket Type: VIP Ticket
+Number of Tickets: 2
+Total Price: $71.4
+Confirmation: fb66fdda-1f5b-4f0b-822f-e496c5bb3215
+==========================================
+
+Event Type: Sport
+Event Name: UTEP Football 3
+Event Date: 9/18/21
+Ticket Type: Silver Ticket
+Number of Tickets: 3
+Total Price: $65.25
+Confirmation: a129317f-420a-461e-aa7c-c2620639bbe4
+==========================================
+
+Event Type: Sport
+Event Name: UTEP Basketball 9
+Event Date: 12/18/21
+Ticket Type: General Ticket
+Number of Tickets: 5
+Total Price: $75.0
+Confirmation: 1fe7cd43-e2fe-443c-89d9-8985ba1a9b27
+==========================================
+
+Event Type: Sport
+Event Name: UTEP Basketball 8
+Event Date: 12/13/21
+Ticket Type: General Ticket
+Number of Tickets: 5
+Total Price: $85.0
+Confirmation: 979feb08-9654-4974-a15e-e45a0695448b
+==========================================
+
+Event Type: Sport
+Event Name: UTEP Basketball 28
+Event Date: 2/21/22
+Ticket Type: General Ticket
+Number of Tickets: 3
+Total Price: $51.0
+Confirmation: d95ee7bc-e960-4993-bf14-3fd2d8a5789b
+==========================================
+
+Event Type: Sport
+Event Name: UTEP Football 4
+Event Date: 9/25/21
+Ticket Type: Silver Ticket
+Number of Tickets: 6
+Total Price: $135.0
+Confirmation: 283c5928-28ef-435c-9cc7-c16770c95450
+==========================================
+
+Event Type: Sport
+Event Name: UTEP Football 8
+Event Date: 10/23/21
+Ticket Type: VIP Ticket
+Number of Tickets: 2
+Total Price: $67.2
+Confirmation: a68080dc-f508-4746-86ce-5d3b504425e5
+==========================================
+
+Event Type: Sport
+Event Name: UTEP Basketball 17
+Event Date: 1/15/22
+Ticket Type: VIP Ticket
+Number of Tickets: 6
+Total Price: $189.0
+Confirmation: 4dfb3698-72db-43ea-84ee-7cf77c873436
+==========================================
+
+Event Type: Sport
+Event Name: UTEP Football 13
+Event Date: 11/27/21
+Ticket Type: General Ticket
+Number of Tickets: 3
+Total Price: $54.0
+Confirmation: 187b3a1f-62a9-4371-bb89-1983a5306636
+==========================================
+
+Event Type: Sport
+Event Name: UTEP Basketball 11
+Event Date: 12/25/21
+Ticket Type: Gold Ticket
+Number of Tickets: 5
+Total Price: $135.0
+Confirmation: b563d0f7-a01f-4bd4-8952-c3473fe1e05c
+==========================================
+
+Event Type: Sport
+Event Name: UTEP Football 5
+Event Date: 10/2/21
+Ticket Type: General Ticket
+Number of Tickets: 2
+Total Price: $30.0
+Confirmation: 551d37ac-a15b-40ff-b8a3-eef872babb4e
+==========================================
+
+Event Type: Special
+Event Name: UTEP Commencement 3
+Event Date: 12/12/21
+Ticket Type: Gold Ticket
+Number of Tickets: 2
+Total Price: $0.0
+Confirmation: eebd2cc3-273c-48d1-b2b3-a86627ab7ef2
+==========================================
+

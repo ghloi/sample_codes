@@ -1,0 +1,1814 @@
+Session Logs:
+Event ID 0 updated Venue Object
+Event ID 0 updated General Pct to 45.0
+Event ID 0 updated Type to Concert
+Event ID 0 updated Gold Price to 0.0
+Event ID 0 updated Name to Minerpalooza
+Event ID 0 updated Venue Capacity to 5000
+Event ID 0 updated Time to 6:00 PM
+Event ID 0 updated Reserved Pct to 5.0
+Event ID 0 updated Venue Type to Open Air
+Event ID 0 updated VIP Price to 0.0
+Event ID 0 updated Bronze Price to 0.0
+Event ID 0 updated Silver Pct to 15.0
+Event ID 0 updated General Price to 0.0
+Event ID 0 updated Fireworks Planned to false
+Event ID 0 updated Venue Name to Centennial Plaza
+Event ID 0 updated ID to 68
+Event ID 68 updated Pct Seats Unavailable to 0.0
+Event ID 68 updated Venue Cost to 58750.0
+Event ID 68 updated VIP Pct to 5.0
+Event ID 68 updated Date to 9/1/21
+Event ID 68 updated Gold Pct to 10.0
+Event ID 68 updated Fireworks Cost to 0.0
+Event ID 68 updated Silver Price to 0.0
+Event ID 68 updated Bronze Pct to 20.0
+Event ID 0 updated Venue Object
+Event ID 0 updated General Pct to 45.0
+Event ID 0 updated Type to Sport
+Event ID 0 updated Gold Price to 27.0
+Event ID 0 updated Name to UTEP Basketball 1
+Event ID 0 updated Venue Capacity to 12800
+Event ID 0 updated Time to 6:30 PM
+Event ID 0 updated Reserved Pct to 5.0
+Event ID 0 updated Venue Type to Arena
+Event ID 0 updated VIP Price to 31.5
+Event ID 0 updated Bronze Price to 19.5
+Event ID 0 updated Silver Pct to 15.0
+Event ID 0 updated General Price to 15.0
+Event ID 0 updated Fireworks Planned to false
+Event ID 0 updated Venue Name to Don Haskins Center
+Event ID 0 updated ID to 14
+Event ID 14 updated Pct Seats Unavailable to 0.0
+Event ID 14 updated Venue Cost to 150400.0
+Event ID 14 updated VIP Pct to 5.0
+Event ID 14 updated Date to 11/20/21
+Event ID 14 updated Gold Pct to 10.0
+Event ID 14 updated Fireworks Cost to 0.0
+Event ID 14 updated Silver Price to 22.5
+Event ID 14 updated Bronze Pct to 20.0
+Event ID 0 updated Venue Object
+Event ID 0 updated General Pct to 45.0
+Event ID 0 updated Type to Sport
+Event ID 0 updated Gold Price to 30.6
+Event ID 0 updated Name to UTEP Basketball 2
+Event ID 0 updated Venue Capacity to 12800
+Event ID 0 updated Time to 7:15 PM
+Event ID 0 updated Reserved Pct to 5.0
+Event ID 0 updated Venue Type to Arena
+Event ID 0 updated VIP Price to 35.7
+Event ID 0 updated Bronze Price to 22.1
+Event ID 0 updated Silver Pct to 15.0
+Event ID 0 updated General Price to 17.0
+Event ID 0 updated Fireworks Planned to false
+Event ID 0 updated Venue Name to Don Haskins Center
+Event ID 0 updated ID to 15
+Event ID 15 updated Pct Seats Unavailable to 0.0
+Event ID 15 updated Venue Cost to 150400.0
+Event ID 15 updated VIP Pct to 5.0
+Event ID 15 updated Date to 11/22/21
+Event ID 15 updated Gold Pct to 10.0
+Event ID 15 updated Fireworks Cost to 0.0
+Event ID 15 updated Silver Price to 25.5
+Event ID 15 updated Bronze Pct to 20.0
+Event ID 0 updated Venue Object
+Event ID 0 updated General Pct to 45.0
+Event ID 0 updated Type to Sport
+Event ID 0 updated Gold Price to 27.0
+Event ID 0 updated Name to UTEP Basketball 3
+Event ID 0 updated Venue Capacity to 12800
+Event ID 0 updated Time to 6:30 PM
+Event ID 0 updated Reserved Pct to 5.0
+Event ID 0 updated Venue Type to Arena
+Event ID 0 updated VIP Price to 31.5
+Event ID 0 updated Bronze Price to 19.5
+Event ID 0 updated Silver Pct to 15.0
+Event ID 0 updated General Price to 15.0
+Event ID 0 updated Fireworks Planned to false
+Event ID 0 updated Venue Name to Don Haskins Center
+Event ID 0 updated ID to 16
+Event ID 16 updated Pct Seats Unavailable to 0.0
+Event ID 16 updated Venue Cost to 150400.0
+Event ID 16 updated VIP Pct to 5.0
+Event ID 16 updated Date to 11/27/21
+Event ID 16 updated Gold Pct to 10.0
+Event ID 16 updated Fireworks Cost to 0.0
+Event ID 16 updated Silver Price to 22.5
+Event ID 16 updated Bronze Pct to 20.0
+Event ID 0 updated Venue Object
+Event ID 0 updated General Pct to 45.0
+Event ID 0 updated Type to Sport
+Event ID 0 updated Gold Price to 30.6
+Event ID 0 updated Name to UTEP Basketball 4
+Event ID 0 updated Venue Capacity to 12800
+Event ID 0 updated Time to 7:15 PM
+Event ID 0 updated Reserved Pct to 5.0
+Event ID 0 updated Venue Type to Arena
+Event ID 0 updated VIP Price to 35.7
+Event ID 0 updated Bronze Price to 22.1
+Event ID 0 updated Silver Pct to 15.0
+Event ID 0 updated General Price to 17.0
+Event ID 0 updated Fireworks Planned to false
+Event ID 0 updated Venue Name to Don Haskins Center
+Event ID 0 updated ID to 17
+Event ID 17 updated Pct Seats Unavailable to 0.0
+Event ID 17 updated Venue Cost to 150400.0
+Event ID 17 updated VIP Pct to 5.0
+Event ID 17 updated Date to 11/29/21
+Event ID 17 updated Gold Pct to 10.0
+Event ID 17 updated Fireworks Cost to 0.0
+Event ID 17 updated Silver Price to 25.5
+Event ID 17 updated Bronze Pct to 20.0
+Event ID 0 updated Venue Object
+Event ID 0 updated General Pct to 45.0
+Event ID 0 updated Type to Sport
+Event ID 0 updated Gold Price to 27.0
+Event ID 0 updated Name to UTEP Basketball 5
+Event ID 0 updated Venue Capacity to 12800
+Event ID 0 updated Time to 6:30 PM
+Event ID 0 updated Reserved Pct to 5.0
+Event ID 0 updated Venue Type to Arena
+Event ID 0 updated VIP Price to 31.5
+Event ID 0 updated Bronze Price to 19.5
+Event ID 0 updated Silver Pct to 15.0
+Event ID 0 updated General Price to 15.0
+Event ID 0 updated Fireworks Planned to false
+Event ID 0 updated Venue Name to Don Haskins Center
+Event ID 0 updated ID to 18
+Event ID 18 updated Pct Seats Unavailable to 0.0
+Event ID 18 updated Venue Cost to 150400.0
+Event ID 18 updated VIP Pct to 5.0
+Event ID 18 updated Date to 12/4/21
+Event ID 18 updated Gold Pct to 10.0
+Event ID 18 updated Fireworks Cost to 0.0
+Event ID 18 updated Silver Price to 22.5
+Event ID 18 updated Bronze Pct to 20.0
+Event ID 0 updated Venue Object
+Event ID 0 updated General Pct to 45.0
+Event ID 0 updated Type to Sport
+Event ID 0 updated Gold Price to 30.6
+Event ID 0 updated Name to UTEP Basketball 6
+Event ID 0 updated Venue Capacity to 12800
+Event ID 0 updated Time to 7:15 PM
+Event ID 0 updated Reserved Pct to 5.0
+Event ID 0 updated Venue Type to Arena
+Event ID 0 updated VIP Price to 35.7
+Event ID 0 updated Bronze Price to 22.1
+Event ID 0 updated Silver Pct to 15.0
+Event ID 0 updated General Price to 17.0
+Event ID 0 updated Fireworks Planned to false
+Event ID 0 updated Venue Name to Don Haskins Center
+Event ID 0 updated ID to 19
+Event ID 19 updated Pct Seats Unavailable to 0.0
+Event ID 19 updated Venue Cost to 150400.0
+Event ID 19 updated VIP Pct to 5.0
+Event ID 19 updated Date to 12/6/21
+Event ID 19 updated Gold Pct to 10.0
+Event ID 19 updated Fireworks Cost to 0.0
+Event ID 19 updated Silver Price to 25.5
+Event ID 19 updated Bronze Pct to 20.0
+Event ID 0 updated Venue Object
+Event ID 0 updated General Pct to 45.0
+Event ID 0 updated Type to Sport
+Event ID 0 updated Gold Price to 27.0
+Event ID 0 updated Name to UTEP Basketball 7
+Event ID 0 updated Venue Capacity to 12800
+Event ID 0 updated Time to 6:30 PM
+Event ID 0 updated Reserved Pct to 5.0
+Event ID 0 updated Venue Type to Arena
+Event ID 0 updated VIP Price to 31.5
+Event ID 0 updated Bronze Price to 19.5
+Event ID 0 updated Silver Pct to 15.0
+Event ID 0 updated General Price to 15.0
+Event ID 0 updated Fireworks Planned to false
+Event ID 0 updated Venue Name to Don Haskins Center
+Event ID 0 updated ID to 20
+Event ID 20 updated Pct Seats Unavailable to 0.0
+Event ID 20 updated Venue Cost to 150400.0
+Event ID 20 updated VIP Pct to 5.0
+Event ID 20 updated Date to 12/11/21
+Event ID 20 updated Gold Pct to 10.0
+Event ID 20 updated Fireworks Cost to 0.0
+Event ID 20 updated Silver Price to 22.5
+Event ID 20 updated Bronze Pct to 20.0
+Event ID 0 updated Venue Object
+Event ID 0 updated General Pct to 45.0
+Event ID 0 updated Type to Sport
+Event ID 0 updated Gold Price to 30.6
+Event ID 0 updated Name to UTEP Basketball 8
+Event ID 0 updated Venue Capacity to 12800
+Event ID 0 updated Time to 7:15 PM
+Event ID 0 updated Reserved Pct to 5.0
+Event ID 0 updated Venue Type to Arena
+Event ID 0 updated VIP Price to 35.7
+Event ID 0 updated Bronze Price to 22.1
+Event ID 0 updated Silver Pct to 15.0
+Event ID 0 updated General Price to 17.0
+Event ID 0 updated Fireworks Planned to false
+Event ID 0 updated Venue Name to Don Haskins Center
+Event ID 0 updated ID to 21
+Event ID 21 updated Pct Seats Unavailable to 0.0
+Event ID 21 updated Venue Cost to 150400.0
+Event ID 21 updated VIP Pct to 5.0
+Event ID 21 updated Date to 12/13/21
+Event ID 21 updated Gold Pct to 10.0
+Event ID 21 updated Fireworks Cost to 0.0
+Event ID 21 updated Silver Price to 25.5
+Event ID 21 updated Bronze Pct to 20.0
+Event ID 0 updated Venue Object
+Event ID 0 updated General Pct to 45.0
+Event ID 0 updated Type to Sport
+Event ID 0 updated Gold Price to 27.0
+Event ID 0 updated Name to UTEP Basketball 9
+Event ID 0 updated Venue Capacity to 12800
+Event ID 0 updated Time to 6:30 PM
+Event ID 0 updated Reserved Pct to 5.0
+Event ID 0 updated Venue Type to Arena
+Event ID 0 updated VIP Price to 31.5
+Event ID 0 updated Bronze Price to 19.5
+Event ID 0 updated Silver Pct to 15.0
+Event ID 0 updated General Price to 15.0
+Event ID 0 updated Fireworks Planned to false
+Event ID 0 updated Venue Name to Don Haskins Center
+Event ID 0 updated ID to 22
+Event ID 22 updated Pct Seats Unavailable to 0.0
+Event ID 22 updated Venue Cost to 150400.0
+Event ID 22 updated VIP Pct to 5.0
+Event ID 22 updated Date to 12/18/21
+Event ID 22 updated Gold Pct to 10.0
+Event ID 22 updated Fireworks Cost to 0.0
+Event ID 22 updated Silver Price to 22.5
+Event ID 22 updated Bronze Pct to 20.0
+Event ID 0 updated Venue Object
+Event ID 0 updated General Pct to 45.0
+Event ID 0 updated Type to Sport
+Event ID 0 updated Gold Price to 30.6
+Event ID 0 updated Name to UTEP Basketball 10
+Event ID 0 updated Venue Capacity to 12800
+Event ID 0 updated Time to 7:15 PM
+Event ID 0 updated Reserved Pct to 5.0
+Event ID 0 updated Venue Type to Arena
+Event ID 0 updated VIP Price to 35.7
+Event ID 0 updated Bronze Price to 22.1
+Event ID 0 updated Silver Pct to 15.0
+Event ID 0 updated General Price to 17.0
+Event ID 0 updated Fireworks Planned to false
+Event ID 0 updated Venue Name to Don Haskins Center
+Event ID 0 updated ID to 23
+Event ID 23 updated Pct Seats Unavailable to 0.0
+Event ID 23 updated Venue Cost to 150400.0
+Event ID 23 updated VIP Pct to 5.0
+Event ID 23 updated Date to 12/20/21
+Event ID 23 updated Gold Pct to 10.0
+Event ID 23 updated Fireworks Cost to 0.0
+Event ID 23 updated Silver Price to 25.5
+Event ID 23 updated Bronze Pct to 20.0
+Event ID 0 updated Venue Object
+Event ID 0 updated General Pct to 45.0
+Event ID 0 updated Type to Sport
+Event ID 0 updated Gold Price to 27.0
+Event ID 0 updated Name to UTEP Basketball 11
+Event ID 0 updated Venue Capacity to 12800
+Event ID 0 updated Time to 6:30 PM
+Event ID 0 updated Reserved Pct to 5.0
+Event ID 0 updated Venue Type to Arena
+Event ID 0 updated VIP Price to 31.5
+Event ID 0 updated Bronze Price to 19.5
+Event ID 0 updated Silver Pct to 15.0
+Event ID 0 updated General Price to 15.0
+Event ID 0 updated Fireworks Planned to false
+Event ID 0 updated Venue Name to Don Haskins Center
+Event ID 0 updated ID to 24
+Event ID 24 updated Pct Seats Unavailable to 0.0
+Event ID 24 updated Venue Cost to 150400.0
+Event ID 24 updated VIP Pct to 5.0
+Event ID 24 updated Date to 12/25/21
+Event ID 24 updated Gold Pct to 10.0
+Event ID 24 updated Fireworks Cost to 0.0
+Event ID 24 updated Silver Price to 22.5
+Event ID 24 updated Bronze Pct to 20.0
+Event ID 0 updated Venue Object
+Event ID 0 updated General Pct to 45.0
+Event ID 0 updated Type to Sport
+Event ID 0 updated Gold Price to 30.6
+Event ID 0 updated Name to UTEP Basketball 12
+Event ID 0 updated Venue Capacity to 12800
+Event ID 0 updated Time to 7:15 PM
+Event ID 0 updated Reserved Pct to 5.0
+Event ID 0 updated Venue Type to Arena
+Event ID 0 updated VIP Price to 35.7
+Event ID 0 updated Bronze Price to 22.1
+Event ID 0 updated Silver Pct to 15.0
+Event ID 0 updated General Price to 17.0
+Event ID 0 updated Fireworks Planned to false
+Event ID 0 updated Venue Name to Don Haskins Center
+Event ID 0 updated ID to 25
+Event ID 25 updated Pct Seats Unavailable to 0.0
+Event ID 25 updated Venue Cost to 150400.0
+Event ID 25 updated VIP Pct to 5.0
+Event ID 25 updated Date to 12/27/21
+Event ID 25 updated Gold Pct to 10.0
+Event ID 25 updated Fireworks Cost to 0.0
+Event ID 25 updated Silver Price to 25.5
+Event ID 25 updated Bronze Pct to 20.0
+Event ID 0 updated Venue Object
+Event ID 0 updated General Pct to 45.0
+Event ID 0 updated Type to Sport
+Event ID 0 updated Gold Price to 27.0
+Event ID 0 updated Name to UTEP Basketball 13
+Event ID 0 updated Venue Capacity to 12800
+Event ID 0 updated Time to 6:30 PM
+Event ID 0 updated Reserved Pct to 5.0
+Event ID 0 updated Venue Type to Arena
+Event ID 0 updated VIP Price to 31.5
+Event ID 0 updated Bronze Price to 19.5
+Event ID 0 updated Silver Pct to 15.0
+Event ID 0 updated General Price to 15.0
+Event ID 0 updated Fireworks Planned to false
+Event ID 0 updated Venue Name to Don Haskins Center
+Event ID 0 updated ID to 26
+Event ID 26 updated Pct Seats Unavailable to 0.0
+Event ID 26 updated Venue Cost to 150400.0
+Event ID 26 updated VIP Pct to 5.0
+Event ID 26 updated Date to 1/1/22
+Event ID 26 updated Gold Pct to 10.0
+Event ID 26 updated Fireworks Cost to 0.0
+Event ID 26 updated Silver Price to 22.5
+Event ID 26 updated Bronze Pct to 20.0
+Event ID 0 updated Venue Object
+Event ID 0 updated General Pct to 45.0
+Event ID 0 updated Type to Sport
+Event ID 0 updated Gold Price to 30.6
+Event ID 0 updated Name to UTEP Basketball 14
+Event ID 0 updated Venue Capacity to 12800
+Event ID 0 updated Time to 7:15 PM
+Event ID 0 updated Reserved Pct to 5.0
+Event ID 0 updated Venue Type to Arena
+Event ID 0 updated VIP Price to 35.7
+Event ID 0 updated Bronze Price to 22.1
+Event ID 0 updated Silver Pct to 15.0
+Event ID 0 updated General Price to 17.0
+Event ID 0 updated Fireworks Planned to false
+Event ID 0 updated Venue Name to Don Haskins Center
+Event ID 0 updated ID to 27
+Event ID 27 updated Pct Seats Unavailable to 0.0
+Event ID 27 updated Venue Cost to 150400.0
+Event ID 27 updated VIP Pct to 5.0
+Event ID 27 updated Date to 1/3/22
+Event ID 27 updated Gold Pct to 10.0
+Event ID 27 updated Fireworks Cost to 0.0
+Event ID 27 updated Silver Price to 25.5
+Event ID 27 updated Bronze Pct to 20.0
+Event ID 0 updated Venue Object
+Event ID 0 updated General Pct to 45.0
+Event ID 0 updated Type to Sport
+Event ID 0 updated Gold Price to 27.0
+Event ID 0 updated Name to UTEP Basketball 15
+Event ID 0 updated Venue Capacity to 12800
+Event ID 0 updated Time to 6:30 PM
+Event ID 0 updated Reserved Pct to 5.0
+Event ID 0 updated Venue Type to Arena
+Event ID 0 updated VIP Price to 31.5
+Event ID 0 updated Bronze Price to 19.5
+Event ID 0 updated Silver Pct to 15.0
+Event ID 0 updated General Price to 15.0
+Event ID 0 updated Fireworks Planned to false
+Event ID 0 updated Venue Name to Don Haskins Center
+Event ID 0 updated ID to 28
+Event ID 28 updated Pct Seats Unavailable to 0.0
+Event ID 28 updated Venue Cost to 150400.0
+Event ID 28 updated VIP Pct to 5.0
+Event ID 28 updated Date to 1/8/22
+Event ID 28 updated Gold Pct to 10.0
+Event ID 28 updated Fireworks Cost to 0.0
+Event ID 28 updated Silver Price to 22.5
+Event ID 28 updated Bronze Pct to 20.0
+Event ID 0 updated Venue Object
+Event ID 0 updated General Pct to 45.0
+Event ID 0 updated Type to Sport
+Event ID 0 updated Gold Price to 30.6
+Event ID 0 updated Name to UTEP Basketball 16
+Event ID 0 updated Venue Capacity to 12800
+Event ID 0 updated Time to 7:15 PM
+Event ID 0 updated Reserved Pct to 5.0
+Event ID 0 updated Venue Type to Arena
+Event ID 0 updated VIP Price to 35.7
+Event ID 0 updated Bronze Price to 22.1
+Event ID 0 updated Silver Pct to 15.0
+Event ID 0 updated General Price to 17.0
+Event ID 0 updated Fireworks Planned to false
+Event ID 0 updated Venue Name to Don Haskins Center
+Event ID 0 updated ID to 29
+Event ID 29 updated Pct Seats Unavailable to 0.0
+Event ID 29 updated Venue Cost to 150400.0
+Event ID 29 updated VIP Pct to 5.0
+Event ID 29 updated Date to 1/10/22
+Event ID 29 updated Gold Pct to 10.0
+Event ID 29 updated Fireworks Cost to 0.0
+Event ID 29 updated Silver Price to 25.5
+Event ID 29 updated Bronze Pct to 20.0
+Event ID 0 updated Venue Object
+Event ID 0 updated General Pct to 45.0
+Event ID 0 updated Type to Sport
+Event ID 0 updated Gold Price to 27.0
+Event ID 0 updated Name to UTEP Basketball 17
+Event ID 0 updated Venue Capacity to 12800
+Event ID 0 updated Time to 6:30 PM
+Event ID 0 updated Reserved Pct to 5.0
+Event ID 0 updated Venue Type to Arena
+Event ID 0 updated VIP Price to 31.5
+Event ID 0 updated Bronze Price to 19.5
+Event ID 0 updated Silver Pct to 15.0
+Event ID 0 updated General Price to 15.0
+Event ID 0 updated Fireworks Planned to false
+Event ID 0 updated Venue Name to Don Haskins Center
+Event ID 0 updated ID to 30
+Event ID 30 updated Pct Seats Unavailable to 0.0
+Event ID 30 updated Venue Cost to 150400.0
+Event ID 30 updated VIP Pct to 5.0
+Event ID 30 updated Date to 1/15/22
+Event ID 30 updated Gold Pct to 10.0
+Event ID 30 updated Fireworks Cost to 0.0
+Event ID 30 updated Silver Price to 22.5
+Event ID 30 updated Bronze Pct to 20.0
+Event ID 0 updated Venue Object
+Event ID 0 updated General Pct to 45.0
+Event ID 0 updated Type to Sport
+Event ID 0 updated Gold Price to 30.6
+Event ID 0 updated Name to UTEP Basketball 18
+Event ID 0 updated Venue Capacity to 12800
+Event ID 0 updated Time to 7:15 PM
+Event ID 0 updated Reserved Pct to 5.0
+Event ID 0 updated Venue Type to Arena
+Event ID 0 updated VIP Price to 35.7
+Event ID 0 updated Bronze Price to 22.1
+Event ID 0 updated Silver Pct to 15.0
+Event ID 0 updated General Price to 17.0
+Event ID 0 updated Fireworks Planned to false
+Event ID 0 updated Venue Name to Don Haskins Center
+Event ID 0 updated ID to 31
+Event ID 31 updated Pct Seats Unavailable to 0.0
+Event ID 31 updated Venue Cost to 150400.0
+Event ID 31 updated VIP Pct to 5.0
+Event ID 31 updated Date to 1/17/22
+Event ID 31 updated Gold Pct to 10.0
+Event ID 31 updated Fireworks Cost to 0.0
+Event ID 31 updated Silver Price to 25.5
+Event ID 31 updated Bronze Pct to 20.0
+Event ID 0 updated Venue Object
+Event ID 0 updated General Pct to 45.0
+Event ID 0 updated Type to Sport
+Event ID 0 updated Gold Price to 27.0
+Event ID 0 updated Name to UTEP Basketball 19
+Event ID 0 updated Venue Capacity to 12800
+Event ID 0 updated Time to 6:30 PM
+Event ID 0 updated Reserved Pct to 5.0
+Event ID 0 updated Venue Type to Arena
+Event ID 0 updated VIP Price to 31.5
+Event ID 0 updated Bronze Price to 19.5
+Event ID 0 updated Silver Pct to 15.0
+Event ID 0 updated General Price to 15.0
+Event ID 0 updated Fireworks Planned to false
+Event ID 0 updated Venue Name to Don Haskins Center
+Event ID 0 updated ID to 32
+Event ID 32 updated Pct Seats Unavailable to 0.0
+Event ID 32 updated Venue Cost to 150400.0
+Event ID 32 updated VIP Pct to 5.0
+Event ID 32 updated Date to 1/22/22
+Event ID 32 updated Gold Pct to 10.0
+Event ID 32 updated Fireworks Cost to 0.0
+Event ID 32 updated Silver Price to 22.5
+Event ID 32 updated Bronze Pct to 20.0
+Event ID 0 updated Venue Object
+Event ID 0 updated General Pct to 45.0
+Event ID 0 updated Type to Sport
+Event ID 0 updated Gold Price to 30.6
+Event ID 0 updated Name to UTEP Basketball 20
+Event ID 0 updated Venue Capacity to 12800
+Event ID 0 updated Time to 7:15 PM
+Event ID 0 updated Reserved Pct to 5.0
+Event ID 0 updated Venue Type to Arena
+Event ID 0 updated VIP Price to 35.7
+Event ID 0 updated Bronze Price to 22.1
+Event ID 0 updated Silver Pct to 15.0
+Event ID 0 updated General Price to 17.0
+Event ID 0 updated Fireworks Planned to false
+Event ID 0 updated Venue Name to Don Haskins Center
+Event ID 0 updated ID to 33
+Event ID 33 updated Pct Seats Unavailable to 0.0
+Event ID 33 updated Venue Cost to 150400.0
+Event ID 33 updated VIP Pct to 5.0
+Event ID 33 updated Date to 1/24/22
+Event ID 33 updated Gold Pct to 10.0
+Event ID 33 updated Fireworks Cost to 0.0
+Event ID 33 updated Silver Price to 25.5
+Event ID 33 updated Bronze Pct to 20.0
+Event ID 0 updated Venue Object
+Event ID 0 updated General Pct to 45.0
+Event ID 0 updated Type to Sport
+Event ID 0 updated Gold Price to 27.0
+Event ID 0 updated Name to UTEP Basketball 21
+Event ID 0 updated Venue Capacity to 12800
+Event ID 0 updated Time to 6:30 PM
+Event ID 0 updated Reserved Pct to 5.0
+Event ID 0 updated Venue Type to Arena
+Event ID 0 updated VIP Price to 31.5
+Event ID 0 updated Bronze Price to 19.5
+Event ID 0 updated Silver Pct to 15.0
+Event ID 0 updated General Price to 15.0
+Event ID 0 updated Fireworks Planned to false
+Event ID 0 updated Venue Name to Don Haskins Center
+Event ID 0 updated ID to 34
+Event ID 34 updated Pct Seats Unavailable to 0.0
+Event ID 34 updated Venue Cost to 150400.0
+Event ID 34 updated VIP Pct to 5.0
+Event ID 34 updated Date to 1/29/22
+Event ID 34 updated Gold Pct to 10.0
+Event ID 34 updated Fireworks Cost to 0.0
+Event ID 34 updated Silver Price to 22.5
+Event ID 34 updated Bronze Pct to 20.0
+Event ID 0 updated Venue Object
+Event ID 0 updated General Pct to 45.0
+Event ID 0 updated Type to Sport
+Event ID 0 updated Gold Price to 30.6
+Event ID 0 updated Name to UTEP Basketball 22
+Event ID 0 updated Venue Capacity to 12800
+Event ID 0 updated Time to 7:15 PM
+Event ID 0 updated Reserved Pct to 5.0
+Event ID 0 updated Venue Type to Arena
+Event ID 0 updated VIP Price to 35.7
+Event ID 0 updated Bronze Price to 22.1
+Event ID 0 updated Silver Pct to 15.0
+Event ID 0 updated General Price to 17.0
+Event ID 0 updated Fireworks Planned to false
+Event ID 0 updated Venue Name to Don Haskins Center
+Event ID 0 updated ID to 35
+Event ID 35 updated Pct Seats Unavailable to 0.0
+Event ID 35 updated Venue Cost to 150400.0
+Event ID 35 updated VIP Pct to 5.0
+Event ID 35 updated Date to 1/31/22
+Event ID 35 updated Gold Pct to 10.0
+Event ID 35 updated Fireworks Cost to 0.0
+Event ID 35 updated Silver Price to 25.5
+Event ID 35 updated Bronze Pct to 20.0
+Event ID 0 updated Venue Object
+Event ID 0 updated General Pct to 45.0
+Event ID 0 updated Type to Sport
+Event ID 0 updated Gold Price to 27.0
+Event ID 0 updated Name to UTEP Basketball 23
+Event ID 0 updated Venue Capacity to 12800
+Event ID 0 updated Time to 6:30 PM
+Event ID 0 updated Reserved Pct to 5.0
+Event ID 0 updated Venue Type to Arena
+Event ID 0 updated VIP Price to 31.5
+Event ID 0 updated Bronze Price to 19.5
+Event ID 0 updated Silver Pct to 15.0
+Event ID 0 updated General Price to 15.0
+Event ID 0 updated Fireworks Planned to false
+Event ID 0 updated Venue Name to Don Haskins Center
+Event ID 0 updated ID to 36
+Event ID 36 updated Pct Seats Unavailable to 0.0
+Event ID 36 updated Venue Cost to 150400.0
+Event ID 36 updated VIP Pct to 5.0
+Event ID 36 updated Date to 2/5/22
+Event ID 36 updated Gold Pct to 10.0
+Event ID 36 updated Fireworks Cost to 0.0
+Event ID 36 updated Silver Price to 22.5
+Event ID 36 updated Bronze Pct to 20.0
+Event ID 0 updated Venue Object
+Event ID 0 updated General Pct to 45.0
+Event ID 0 updated Type to Sport
+Event ID 0 updated Gold Price to 30.6
+Event ID 0 updated Name to UTEP Basketball 24
+Event ID 0 updated Venue Capacity to 12800
+Event ID 0 updated Time to 7:15 PM
+Event ID 0 updated Reserved Pct to 5.0
+Event ID 0 updated Venue Type to Arena
+Event ID 0 updated VIP Price to 35.7
+Event ID 0 updated Bronze Price to 22.1
+Event ID 0 updated Silver Pct to 15.0
+Event ID 0 updated General Price to 17.0
+Event ID 0 updated Fireworks Planned to false
+Event ID 0 updated Venue Name to Don Haskins Center
+Event ID 0 updated ID to 37
+Event ID 37 updated Pct Seats Unavailable to 0.0
+Event ID 37 updated Venue Cost to 150400.0
+Event ID 37 updated VIP Pct to 5.0
+Event ID 37 updated Date to 2/7/22
+Event ID 37 updated Gold Pct to 10.0
+Event ID 37 updated Fireworks Cost to 0.0
+Event ID 37 updated Silver Price to 25.5
+Event ID 37 updated Bronze Pct to 20.0
+Event ID 0 updated Venue Object
+Event ID 0 updated General Pct to 45.0
+Event ID 0 updated Type to Sport
+Event ID 0 updated Gold Price to 27.0
+Event ID 0 updated Name to UTEP Basketball 25
+Event ID 0 updated Venue Capacity to 12800
+Event ID 0 updated Time to 6:30 PM
+Event ID 0 updated Reserved Pct to 5.0
+Event ID 0 updated Venue Type to Arena
+Event ID 0 updated VIP Price to 31.5
+Event ID 0 updated Bronze Price to 19.5
+Event ID 0 updated Silver Pct to 15.0
+Event ID 0 updated General Price to 15.0
+Event ID 0 updated Fireworks Planned to false
+Event ID 0 updated Venue Name to Don Haskins Center
+Event ID 0 updated ID to 38
+Event ID 38 updated Pct Seats Unavailable to 0.0
+Event ID 38 updated Venue Cost to 150400.0
+Event ID 38 updated VIP Pct to 5.0
+Event ID 38 updated Date to 2/12/22
+Event ID 38 updated Gold Pct to 10.0
+Event ID 38 updated Fireworks Cost to 0.0
+Event ID 38 updated Silver Price to 22.5
+Event ID 38 updated Bronze Pct to 20.0
+Event ID 0 updated Venue Object
+Event ID 0 updated General Pct to 45.0
+Event ID 0 updated Type to Sport
+Event ID 0 updated Gold Price to 30.6
+Event ID 0 updated Name to UTEP Basketball 26
+Event ID 0 updated Venue Capacity to 12800
+Event ID 0 updated Time to 7:15 PM
+Event ID 0 updated Reserved Pct to 5.0
+Event ID 0 updated Venue Type to Arena
+Event ID 0 updated VIP Price to 35.7
+Event ID 0 updated Bronze Price to 22.1
+Event ID 0 updated Silver Pct to 15.0
+Event ID 0 updated General Price to 17.0
+Event ID 0 updated Fireworks Planned to false
+Event ID 0 updated Venue Name to Don Haskins Center
+Event ID 0 updated ID to 39
+Event ID 39 updated Pct Seats Unavailable to 0.0
+Event ID 39 updated Venue Cost to 150400.0
+Event ID 39 updated VIP Pct to 5.0
+Event ID 39 updated Date to 2/14/22
+Event ID 39 updated Gold Pct to 10.0
+Event ID 39 updated Fireworks Cost to 0.0
+Event ID 39 updated Silver Price to 25.5
+Event ID 39 updated Bronze Pct to 20.0
+Event ID 0 updated Venue Object
+Event ID 0 updated General Pct to 45.0
+Event ID 0 updated Type to Sport
+Event ID 0 updated Gold Price to 27.0
+Event ID 0 updated Name to UTEP Basketball 27
+Event ID 0 updated Venue Capacity to 12800
+Event ID 0 updated Time to 6:30 PM
+Event ID 0 updated Reserved Pct to 5.0
+Event ID 0 updated Venue Type to Arena
+Event ID 0 updated VIP Price to 31.5
+Event ID 0 updated Bronze Price to 19.5
+Event ID 0 updated Silver Pct to 15.0
+Event ID 0 updated General Price to 15.0
+Event ID 0 updated Fireworks Planned to false
+Event ID 0 updated Venue Name to Don Haskins Center
+Event ID 0 updated ID to 40
+Event ID 40 updated Pct Seats Unavailable to 0.0
+Event ID 40 updated Venue Cost to 150400.0
+Event ID 40 updated VIP Pct to 5.0
+Event ID 40 updated Date to 2/19/22
+Event ID 40 updated Gold Pct to 10.0
+Event ID 40 updated Fireworks Cost to 0.0
+Event ID 40 updated Silver Price to 22.5
+Event ID 40 updated Bronze Pct to 20.0
+Event ID 0 updated Venue Object
+Event ID 0 updated General Pct to 45.0
+Event ID 0 updated Type to Sport
+Event ID 0 updated Gold Price to 30.6
+Event ID 0 updated Name to UTEP Basketball 28
+Event ID 0 updated Venue Capacity to 12800
+Event ID 0 updated Time to 7:15 PM
+Event ID 0 updated Reserved Pct to 5.0
+Event ID 0 updated Venue Type to Arena
+Event ID 0 updated VIP Price to 35.7
+Event ID 0 updated Bronze Price to 22.1
+Event ID 0 updated Silver Pct to 15.0
+Event ID 0 updated General Price to 17.0
+Event ID 0 updated Fireworks Planned to false
+Event ID 0 updated Venue Name to Don Haskins Center
+Event ID 0 updated ID to 41
+Event ID 41 updated Pct Seats Unavailable to 0.0
+Event ID 41 updated Venue Cost to 150400.0
+Event ID 41 updated VIP Pct to 5.0
+Event ID 41 updated Date to 2/21/22
+Event ID 41 updated Gold Pct to 10.0
+Event ID 41 updated Fireworks Cost to 0.0
+Event ID 41 updated Silver Price to 25.5
+Event ID 41 updated Bronze Pct to 20.0
+Event ID 0 updated Venue Object
+Event ID 0 updated General Pct to 45.0
+Event ID 0 updated Type to Sport
+Event ID 0 updated Gold Price to 27.0
+Event ID 0 updated Name to UTEP Basketball 29
+Event ID 0 updated Venue Capacity to 12800
+Event ID 0 updated Time to 6:30 PM
+Event ID 0 updated Reserved Pct to 5.0
+Event ID 0 updated Venue Type to Arena
+Event ID 0 updated VIP Price to 31.5
+Event ID 0 updated Bronze Price to 19.5
+Event ID 0 updated Silver Pct to 15.0
+Event ID 0 updated General Price to 15.0
+Event ID 0 updated Fireworks Planned to false
+Event ID 0 updated Venue Name to Don Haskins Center
+Event ID 0 updated ID to 42
+Event ID 42 updated Pct Seats Unavailable to 0.0
+Event ID 42 updated Venue Cost to 150400.0
+Event ID 42 updated VIP Pct to 5.0
+Event ID 42 updated Date to 2/26/22
+Event ID 42 updated Gold Pct to 10.0
+Event ID 42 updated Fireworks Cost to 0.0
+Event ID 42 updated Silver Price to 22.5
+Event ID 42 updated Bronze Pct to 20.0
+Event ID 0 updated Venue Object
+Event ID 0 updated General Pct to 45.0
+Event ID 0 updated Type to Sport
+Event ID 0 updated Gold Price to 30.6
+Event ID 0 updated Name to UTEP Basketball 30
+Event ID 0 updated Venue Capacity to 12800
+Event ID 0 updated Time to 7:15 PM
+Event ID 0 updated Reserved Pct to 5.0
+Event ID 0 updated Venue Type to Arena
+Event ID 0 updated VIP Price to 35.7
+Event ID 0 updated Bronze Price to 22.1
+Event ID 0 updated Silver Pct to 15.0
+Event ID 0 updated General Price to 17.0
+Event ID 0 updated Fireworks Planned to false
+Event ID 0 updated Venue Name to Don Haskins Center
+Event ID 0 updated ID to 43
+Event ID 43 updated Pct Seats Unavailable to 0.0
+Event ID 43 updated Venue Cost to 150400.0
+Event ID 43 updated VIP Pct to 5.0
+Event ID 43 updated Date to 2/28/22
+Event ID 43 updated Gold Pct to 10.0
+Event ID 43 updated Fireworks Cost to 0.0
+Event ID 43 updated Silver Price to 25.5
+Event ID 43 updated Bronze Pct to 20.0
+Event ID 0 updated Venue Object
+Event ID 0 updated General Pct to 45.0
+Event ID 0 updated Type to Sport
+Event ID 0 updated Gold Price to 27.0
+Event ID 0 updated Name to UTEP Basketball 31
+Event ID 0 updated Venue Capacity to 12800
+Event ID 0 updated Time to 6:30 PM
+Event ID 0 updated Reserved Pct to 5.0
+Event ID 0 updated Venue Type to Arena
+Event ID 0 updated VIP Price to 31.5
+Event ID 0 updated Bronze Price to 19.5
+Event ID 0 updated Silver Pct to 15.0
+Event ID 0 updated General Price to 15.0
+Event ID 0 updated Fireworks Planned to false
+Event ID 0 updated Venue Name to Don Haskins Center
+Event ID 0 updated ID to 44
+Event ID 44 updated Pct Seats Unavailable to 0.0
+Event ID 44 updated Venue Cost to 150400.0
+Event ID 44 updated VIP Pct to 5.0
+Event ID 44 updated Date to 3/5/22
+Event ID 44 updated Gold Pct to 10.0
+Event ID 44 updated Fireworks Cost to 0.0
+Event ID 44 updated Silver Price to 22.5
+Event ID 44 updated Bronze Pct to 20.0
+Event ID 0 updated Venue Object
+Event ID 0 updated General Pct to 45.0
+Event ID 0 updated Type to Concert
+Event ID 0 updated Gold Price to 458.51
+Event ID 0 updated Name to Drake Live
+Event ID 0 updated Venue Capacity to 14000
+Event ID 0 updated Time to 8:30 PM
+Event ID 0 updated Reserved Pct to 5.0
+Event ID 0 updated Venue Type to Arena
+Event ID 0 updated VIP Price to 693.1
+Event ID 0 updated Bronze Price to 266.58
+Event ID 0 updated Silver Pct to 15.0
+Event ID 0 updated General Price to 106.63
+Event ID 0 updated Fireworks Planned to false
+Event ID 0 updated Venue Name to Don Haskins Center
+Event ID 0 updated ID to 58
+Event ID 58 updated Pct Seats Unavailable to 8.0
+Event ID 58 updated Venue Cost to 164500.0
+Event ID 58 updated VIP Pct to 5.0
+Event ID 58 updated Date to 4/30/22
+Event ID 58 updated Gold Pct to 10.0
+Event ID 58 updated Fireworks Cost to 0.0
+Event ID 58 updated Silver Price to 405.19
+Event ID 58 updated Bronze Pct to 20.0
+Event ID 0 updated Venue Object
+Event ID 0 updated General Pct to 45.0
+Event ID 0 updated Type to Concert
+Event ID 0 updated Gold Price to 430.17
+Event ID 0 updated Name to Eminem Live
+Event ID 0 updated Venue Capacity to 14000
+Event ID 0 updated Time to 8:00 PM
+Event ID 0 updated Reserved Pct to 5.0
+Event ID 0 updated Venue Type to Arena
+Event ID 0 updated VIP Price to 650.26
+Event ID 0 updated Bronze Price to 250.1
+Event ID 0 updated Silver Pct to 15.0
+Event ID 0 updated General Price to 100.04
+Event ID 0 updated Fireworks Planned to false
+Event ID 0 updated Venue Name to Don Haskins Center
+Event ID 0 updated ID to 59
+Event ID 59 updated Pct Seats Unavailable to 8.0
+Event ID 59 updated Venue Cost to 164500.0
+Event ID 59 updated VIP Pct to 5.0
+Event ID 59 updated Date to 10/16/21
+Event ID 59 updated Gold Pct to 10.0
+Event ID 59 updated Fireworks Cost to 0.0
+Event ID 59 updated Silver Price to 380.15
+Event ID 59 updated Bronze Pct to 20.0
+Event ID 0 updated Venue Object
+Event ID 0 updated General Pct to 45.0
+Event ID 0 updated Type to Concert
+Event ID 0 updated Gold Price to 459.89
+Event ID 0 updated Name to Justin Bieber Live
+Event ID 0 updated Venue Capacity to 14000
+Event ID 0 updated Time to 7:15 PM
+Event ID 0 updated Reserved Pct to 5.0
+Event ID 0 updated Venue Type to Arena
+Event ID 0 updated VIP Price to 695.18
+Event ID 0 updated Bronze Price to 267.38
+Event ID 0 updated Silver Pct to 15.0
+Event ID 0 updated General Price to 106.95
+Event ID 0 updated Fireworks Planned to false
+Event ID 0 updated Venue Name to Don Haskins Center
+Event ID 0 updated ID to 61
+Event ID 61 updated Pct Seats Unavailable to 8.0
+Event ID 61 updated Venue Cost to 164500.0
+Event ID 61 updated VIP Pct to 5.0
+Event ID 61 updated Date to 5/10/22
+Event ID 61 updated Gold Pct to 10.0
+Event ID 61 updated Fireworks Cost to 0.0
+Event ID 61 updated Silver Price to 406.41
+Event ID 61 updated Bronze Pct to 20.0
+Event ID 0 updated Venue Object
+Event ID 0 updated General Pct to 45.0
+Event ID 0 updated Type to Concert
+Event ID 0 updated Gold Price to 493.9
+Event ID 0 updated Name to The Weeknd Live
+Event ID 0 updated Venue Capacity to 14000
+Event ID 0 updated Time to 8:00 PM
+Event ID 0 updated Reserved Pct to 5.0
+Event ID 0 updated Venue Type to Arena
+Event ID 0 updated VIP Price to 746.59
+Event ID 0 updated Bronze Price to 287.15
+Event ID 0 updated Silver Pct to 15.0
+Event ID 0 updated General Price to 114.86
+Event ID 0 updated Fireworks Planned to false
+Event ID 0 updated Venue Name to Don Haskins Center
+Event ID 0 updated ID to 62
+Event ID 62 updated Pct Seats Unavailable to 8.0
+Event ID 62 updated Venue Cost to 164500.0
+Event ID 62 updated VIP Pct to 5.0
+Event ID 62 updated Date to 10/18/21
+Event ID 62 updated Gold Pct to 10.0
+Event ID 62 updated Fireworks Cost to 0.0
+Event ID 62 updated Silver Price to 436.47
+Event ID 62 updated Bronze Pct to 20.0
+Event ID 0 updated Venue Object
+Event ID 0 updated General Pct to 45.0
+Event ID 0 updated Type to Special
+Event ID 0 updated Gold Price to 0.0
+Event ID 0 updated Name to UTEP Commencement 1
+Event ID 0 updated Venue Capacity to 12800
+Event ID 0 updated Time to 9:00 AM
+Event ID 0 updated Reserved Pct to 5.0
+Event ID 0 updated Venue Type to Arena
+Event ID 0 updated VIP Price to 0.0
+Event ID 0 updated Bronze Price to 0.0
+Event ID 0 updated Silver Pct to 15.0
+Event ID 0 updated General Price to 0.0
+Event ID 0 updated Fireworks Planned to false
+Event ID 0 updated Venue Name to Don Haskins Center
+Event ID 0 updated ID to 68
+Event ID 68 updated Pct Seats Unavailable to 0.0
+Event ID 68 updated Venue Cost to 150400.0
+Event ID 68 updated VIP Pct to 5.0
+Event ID 68 updated Date to 12/11/21
+Event ID 68 updated Gold Pct to 10.0
+Event ID 68 updated Fireworks Cost to 0.0
+Event ID 68 updated Silver Price to 0.0
+Event ID 68 updated Bronze Pct to 20.0
+Event ID 0 updated Venue Object
+Event ID 0 updated General Pct to 45.0
+Event ID 0 updated Type to Special
+Event ID 0 updated Gold Price to 0.0
+Event ID 0 updated Name to UTEP Commencement 2
+Event ID 0 updated Venue Capacity to 12800
+Event ID 0 updated Time to 2:00 PM
+Event ID 0 updated Reserved Pct to 5.0
+Event ID 0 updated Venue Type to Arena
+Event ID 0 updated VIP Price to 0.0
+Event ID 0 updated Bronze Price to 0.0
+Event ID 0 updated Silver Pct to 15.0
+Event ID 0 updated General Price to 0.0
+Event ID 0 updated Fireworks Planned to false
+Event ID 0 updated Venue Name to Don Haskins Center
+Event ID 0 updated ID to 69
+Event ID 69 updated Pct Seats Unavailable to 0.0
+Event ID 69 updated Venue Cost to 150400.0
+Event ID 69 updated VIP Pct to 5.0
+Event ID 69 updated Date to 12/11/21
+Event ID 69 updated Gold Pct to 10.0
+Event ID 69 updated Fireworks Cost to 0.0
+Event ID 69 updated Silver Price to 0.0
+Event ID 69 updated Bronze Pct to 20.0
+Event ID 0 updated Venue Object
+Event ID 0 updated General Pct to 45.0
+Event ID 0 updated Type to Special
+Event ID 0 updated Gold Price to 0.0
+Event ID 0 updated Name to UTEP Commencement 3
+Event ID 0 updated Venue Capacity to 12800
+Event ID 0 updated Time to 7:00 PM
+Event ID 0 updated Reserved Pct to 5.0
+Event ID 0 updated Venue Type to Arena
+Event ID 0 updated VIP Price to 0.0
+Event ID 0 updated Bronze Price to 0.0
+Event ID 0 updated Silver Pct to 15.0
+Event ID 0 updated General Price to 0.0
+Event ID 0 updated Fireworks Planned to false
+Event ID 0 updated Venue Name to Don Haskins Center
+Event ID 0 updated ID to 70
+Event ID 70 updated Pct Seats Unavailable to 0.0
+Event ID 70 updated Venue Cost to 150400.0
+Event ID 70 updated VIP Pct to 5.0
+Event ID 70 updated Date to 12/11/21
+Event ID 70 updated Gold Pct to 10.0
+Event ID 70 updated Fireworks Cost to 0.0
+Event ID 70 updated Silver Price to 0.0
+Event ID 70 updated Bronze Pct to 20.0
+Event ID 0 updated Venue Object
+Event ID 0 updated General Pct to 45.0
+Event ID 0 updated Type to Special
+Event ID 0 updated Gold Price to 0.0
+Event ID 0 updated Name to UTEP Commencement 3
+Event ID 0 updated Venue Capacity to 12800
+Event ID 0 updated Time to 2:00 PM
+Event ID 0 updated Reserved Pct to 5.0
+Event ID 0 updated Venue Type to Arena
+Event ID 0 updated VIP Price to 0.0
+Event ID 0 updated Bronze Price to 0.0
+Event ID 0 updated Silver Pct to 15.0
+Event ID 0 updated General Price to 0.0
+Event ID 0 updated Fireworks Planned to false
+Event ID 0 updated Venue Name to Don Haskins Center
+Event ID 0 updated ID to 71
+Event ID 71 updated Pct Seats Unavailable to 0.0
+Event ID 71 updated Venue Cost to 150400.0
+Event ID 71 updated VIP Pct to 5.0
+Event ID 71 updated Date to 12/12/21
+Event ID 71 updated Gold Pct to 10.0
+Event ID 71 updated Fireworks Cost to 0.0
+Event ID 71 updated Silver Price to 0.0
+Event ID 71 updated Bronze Pct to 20.0
+Event ID 0 updated Venue Object
+Event ID 0 updated General Pct to 45.0
+Event ID 0 updated Type to Concert
+Event ID 0 updated Gold Price to 26.88
+Event ID 0 updated Name to UTEP Wind Symphony 1
+Event ID 0 updated Venue Capacity to 1152
+Event ID 0 updated Time to 6:00 PM
+Event ID 0 updated Reserved Pct to 5.0
+Event ID 0 updated Venue Type to Auditorium
+Event ID 0 updated VIP Price to 40.63
+Event ID 0 updated Bronze Price to 15.63
+Event ID 0 updated Silver Pct to 15.0
+Event ID 0 updated General Price to 6.25
+Event ID 0 updated Fireworks Planned to false
+Event ID 0 updated Venue Name to Magoffin Auditorium
+Event ID 0 updated ID to 45
+Event ID 45 updated Pct Seats Unavailable to 0.0
+Event ID 45 updated Venue Cost to 13536.0
+Event ID 45 updated VIP Pct to 5.0
+Event ID 45 updated Date to 1/18/22
+Event ID 45 updated Gold Pct to 10.0
+Event ID 45 updated Fireworks Cost to 0.0
+Event ID 45 updated Silver Price to 23.75
+Event ID 45 updated Bronze Pct to 20.0
+Event ID 0 updated Venue Object
+Event ID 0 updated General Pct to 45.0
+Event ID 0 updated Type to Concert
+Event ID 0 updated Gold Price to 26.88
+Event ID 0 updated Name to UTEP Wind Symphony 2
+Event ID 0 updated Venue Capacity to 1152
+Event ID 0 updated Time to 6:00 PM
+Event ID 0 updated Reserved Pct to 5.0
+Event ID 0 updated Venue Type to Auditorium
+Event ID 0 updated VIP Price to 40.63
+Event ID 0 updated Bronze Price to 15.63
+Event ID 0 updated Silver Pct to 15.0
+Event ID 0 updated General Price to 6.25
+Event ID 0 updated Fireworks Planned to false
+Event ID 0 updated Venue Name to Magoffin Auditorium
+Event ID 0 updated ID to 46
+Event ID 46 updated Pct Seats Unavailable to 0.0
+Event ID 46 updated Venue Cost to 13536.0
+Event ID 46 updated VIP Pct to 5.0
+Event ID 46 updated Date to 10/27/21
+Event ID 46 updated Gold Pct to 10.0
+Event ID 46 updated Fireworks Cost to 0.0
+Event ID 46 updated Silver Price to 23.75
+Event ID 46 updated Bronze Pct to 20.0
+Event ID 0 updated Venue Object
+Event ID 0 updated General Pct to 45.0
+Event ID 0 updated Type to Concert
+Event ID 0 updated Gold Price to 26.88
+Event ID 0 updated Name to UTEP Wind Symphony 3
+Event ID 0 updated Venue Capacity to 1152
+Event ID 0 updated Time to 6:00 PM
+Event ID 0 updated Reserved Pct to 5.0
+Event ID 0 updated Venue Type to Auditorium
+Event ID 0 updated VIP Price to 40.63
+Event ID 0 updated Bronze Price to 15.63
+Event ID 0 updated Silver Pct to 15.0
+Event ID 0 updated General Price to 6.25
+Event ID 0 updated Fireworks Planned to false
+Event ID 0 updated Venue Name to Magoffin Auditorium
+Event ID 0 updated ID to 47
+Event ID 47 updated Pct Seats Unavailable to 0.0
+Event ID 47 updated Venue Cost to 13536.0
+Event ID 47 updated VIP Pct to 5.0
+Event ID 47 updated Date to 12/11/21
+Event ID 47 updated Gold Pct to 10.0
+Event ID 47 updated Fireworks Cost to 0.0
+Event ID 47 updated Silver Price to 23.75
+Event ID 47 updated Bronze Pct to 20.0
+Event ID 0 updated Venue Object
+Event ID 0 updated General Pct to 45.0
+Event ID 0 updated Type to Concert
+Event ID 0 updated Gold Price to 26.88
+Event ID 0 updated Name to UTEP Wind Symphony 4
+Event ID 0 updated Venue Capacity to 1152
+Event ID 0 updated Time to 6:00 PM
+Event ID 0 updated Reserved Pct to 5.0
+Event ID 0 updated Venue Type to Auditorium
+Event ID 0 updated VIP Price to 40.63
+Event ID 0 updated Bronze Price to 15.63
+Event ID 0 updated Silver Pct to 15.0
+Event ID 0 updated General Price to 6.25
+Event ID 0 updated Fireworks Planned to false
+Event ID 0 updated Venue Name to Magoffin Auditorium
+Event ID 0 updated ID to 48
+Event ID 48 updated Pct Seats Unavailable to 0.0
+Event ID 48 updated Venue Cost to 13536.0
+Event ID 48 updated VIP Pct to 5.0
+Event ID 48 updated Date to 12/10/21
+Event ID 48 updated Gold Pct to 10.0
+Event ID 48 updated Fireworks Cost to 0.0
+Event ID 48 updated Silver Price to 23.75
+Event ID 48 updated Bronze Pct to 20.0
+Event ID 0 updated Venue Object
+Event ID 0 updated General Pct to 45.0
+Event ID 0 updated Type to Concert
+Event ID 0 updated Gold Price to 26.88
+Event ID 0 updated Name to UTEP Wind Symphony 5
+Event ID 0 updated Venue Capacity to 1152
+Event ID 0 updated Time to 6:00 PM
+Event ID 0 updated Reserved Pct to 5.0
+Event ID 0 updated Venue Type to Auditorium
+Event ID 0 updated VIP Price to 40.63
+Event ID 0 updated Bronze Price to 15.63
+Event ID 0 updated Silver Pct to 15.0
+Event ID 0 updated General Price to 6.25
+Event ID 0 updated Fireworks Planned to false
+Event ID 0 updated Venue Name to Magoffin Auditorium
+Event ID 0 updated ID to 49
+Event ID 49 updated Pct Seats Unavailable to 0.0
+Event ID 49 updated Venue Cost to 13536.0
+Event ID 49 updated VIP Pct to 5.0
+Event ID 49 updated Date to 2/2/22
+Event ID 49 updated Gold Pct to 10.0
+Event ID 49 updated Fireworks Cost to 0.0
+Event ID 49 updated Silver Price to 23.75
+Event ID 49 updated Bronze Pct to 20.0
+Event ID 0 updated Venue Object
+Event ID 0 updated General Pct to 45.0
+Event ID 0 updated Type to Concert
+Event ID 0 updated Gold Price to 26.88
+Event ID 0 updated Name to UTEP Wind Symphony 6
+Event ID 0 updated Venue Capacity to 1152
+Event ID 0 updated Time to 6:00 PM
+Event ID 0 updated Reserved Pct to 5.0
+Event ID 0 updated Venue Type to Auditorium
+Event ID 0 updated VIP Price to 40.63
+Event ID 0 updated Bronze Price to 15.63
+Event ID 0 updated Silver Pct to 15.0
+Event ID 0 updated General Price to 6.25
+Event ID 0 updated Fireworks Planned to false
+Event ID 0 updated Venue Name to Magoffin Auditorium
+Event ID 0 updated ID to 50
+Event ID 50 updated Pct Seats Unavailable to 0.0
+Event ID 50 updated Venue Cost to 13536.0
+Event ID 50 updated VIP Pct to 5.0
+Event ID 50 updated Date to 9/24/21
+Event ID 50 updated Gold Pct to 10.0
+Event ID 50 updated Fireworks Cost to 0.0
+Event ID 50 updated Silver Price to 23.75
+Event ID 50 updated Bronze Pct to 20.0
+Event ID 0 updated Venue Object
+Event ID 0 updated General Pct to 45.0
+Event ID 0 updated Type to Concert
+Event ID 0 updated Gold Price to 26.88
+Event ID 0 updated Name to UTEP Wind Symphony 7
+Event ID 0 updated Venue Capacity to 1152
+Event ID 0 updated Time to 6:00 PM
+Event ID 0 updated Reserved Pct to 5.0
+Event ID 0 updated Venue Type to Auditorium
+Event ID 0 updated VIP Price to 40.63
+Event ID 0 updated Bronze Price to 15.63
+Event ID 0 updated Silver Pct to 15.0
+Event ID 0 updated General Price to 6.25
+Event ID 0 updated Fireworks Planned to false
+Event ID 0 updated Venue Name to Magoffin Auditorium
+Event ID 0 updated ID to 51
+Event ID 51 updated Pct Seats Unavailable to 0.0
+Event ID 51 updated Venue Cost to 13536.0
+Event ID 51 updated VIP Pct to 5.0
+Event ID 51 updated Date to 11/5/21
+Event ID 51 updated Gold Pct to 10.0
+Event ID 51 updated Fireworks Cost to 0.0
+Event ID 51 updated Silver Price to 23.75
+Event ID 51 updated Bronze Pct to 20.0
+Event ID 0 updated Venue Object
+Event ID 0 updated General Pct to 45.0
+Event ID 0 updated Type to Concert
+Event ID 0 updated Gold Price to 26.88
+Event ID 0 updated Name to UTEP Wind Symphony 8
+Event ID 0 updated Venue Capacity to 1152
+Event ID 0 updated Time to 6:00 PM
+Event ID 0 updated Reserved Pct to 5.0
+Event ID 0 updated Venue Type to Auditorium
+Event ID 0 updated VIP Price to 40.63
+Event ID 0 updated Bronze Price to 15.63
+Event ID 0 updated Silver Pct to 15.0
+Event ID 0 updated General Price to 6.25
+Event ID 0 updated Fireworks Planned to false
+Event ID 0 updated Venue Name to Magoffin Auditorium
+Event ID 0 updated ID to 52
+Event ID 52 updated Pct Seats Unavailable to 0.0
+Event ID 52 updated Venue Cost to 13536.0
+Event ID 52 updated VIP Pct to 5.0
+Event ID 52 updated Date to 1/14/22
+Event ID 52 updated Gold Pct to 10.0
+Event ID 52 updated Fireworks Cost to 0.0
+Event ID 52 updated Silver Price to 23.75
+Event ID 52 updated Bronze Pct to 20.0
+Event ID 0 updated Venue Object
+Event ID 0 updated General Pct to 45.0
+Event ID 0 updated Type to Concert
+Event ID 0 updated Gold Price to 26.88
+Event ID 0 updated Name to UTEP Wind Symphony 9
+Event ID 0 updated Venue Capacity to 1152
+Event ID 0 updated Time to 6:00 PM
+Event ID 0 updated Reserved Pct to 5.0
+Event ID 0 updated Venue Type to Auditorium
+Event ID 0 updated VIP Price to 40.63
+Event ID 0 updated Bronze Price to 15.63
+Event ID 0 updated Silver Pct to 15.0
+Event ID 0 updated General Price to 6.25
+Event ID 0 updated Fireworks Planned to false
+Event ID 0 updated Venue Name to Magoffin Auditorium
+Event ID 0 updated ID to 53
+Event ID 53 updated Pct Seats Unavailable to 0.0
+Event ID 53 updated Venue Cost to 13536.0
+Event ID 53 updated VIP Pct to 5.0
+Event ID 53 updated Date to 3/27/22
+Event ID 53 updated Gold Pct to 10.0
+Event ID 53 updated Fireworks Cost to 0.0
+Event ID 53 updated Silver Price to 23.75
+Event ID 53 updated Bronze Pct to 20.0
+Event ID 0 updated Venue Object
+Event ID 0 updated General Pct to 45.0
+Event ID 0 updated Type to Concert
+Event ID 0 updated Gold Price to 26.88
+Event ID 0 updated Name to UTEP Wind Symphony 10
+Event ID 0 updated Venue Capacity to 1152
+Event ID 0 updated Time to 6:00 PM
+Event ID 0 updated Reserved Pct to 5.0
+Event ID 0 updated Venue Type to Auditorium
+Event ID 0 updated VIP Price to 40.63
+Event ID 0 updated Bronze Price to 15.63
+Event ID 0 updated Silver Pct to 15.0
+Event ID 0 updated General Price to 6.25
+Event ID 0 updated Fireworks Planned to false
+Event ID 0 updated Venue Name to Magoffin Auditorium
+Event ID 0 updated ID to 54
+Event ID 54 updated Pct Seats Unavailable to 0.0
+Event ID 54 updated Venue Cost to 13536.0
+Event ID 54 updated VIP Pct to 5.0
+Event ID 54 updated Date to 3/2/22
+Event ID 54 updated Gold Pct to 10.0
+Event ID 54 updated Fireworks Cost to 0.0
+Event ID 54 updated Silver Price to 23.75
+Event ID 54 updated Bronze Pct to 20.0
+Event ID 0 updated Venue Object
+Event ID 0 updated General Pct to 45.0
+Event ID 0 updated Type to Concert
+Event ID 0 updated Gold Price to 26.88
+Event ID 0 updated Name to UTEP Wind Symphony 11
+Event ID 0 updated Venue Capacity to 1152
+Event ID 0 updated Time to 6:00 PM
+Event ID 0 updated Reserved Pct to 5.0
+Event ID 0 updated Venue Type to Auditorium
+Event ID 0 updated VIP Price to 40.63
+Event ID 0 updated Bronze Price to 15.63
+Event ID 0 updated Silver Pct to 15.0
+Event ID 0 updated General Price to 6.25
+Event ID 0 updated Fireworks Planned to false
+Event ID 0 updated Venue Name to Magoffin Auditorium
+Event ID 0 updated ID to 55
+Event ID 55 updated Pct Seats Unavailable to 0.0
+Event ID 55 updated Venue Cost to 13536.0
+Event ID 55 updated VIP Pct to 5.0
+Event ID 55 updated Date to 10/2/21
+Event ID 55 updated Gold Pct to 10.0
+Event ID 55 updated Fireworks Cost to 0.0
+Event ID 55 updated Silver Price to 23.75
+Event ID 55 updated Bronze Pct to 20.0
+Event ID 0 updated Venue Object
+Event ID 0 updated General Pct to 45.0
+Event ID 0 updated Type to Concert
+Event ID 0 updated Gold Price to 26.88
+Event ID 0 updated Name to UTEP Wind Symphony 12
+Event ID 0 updated Venue Capacity to 1152
+Event ID 0 updated Time to 6:00 PM
+Event ID 0 updated Reserved Pct to 5.0
+Event ID 0 updated Venue Type to Auditorium
+Event ID 0 updated VIP Price to 40.63
+Event ID 0 updated Bronze Price to 15.63
+Event ID 0 updated Silver Pct to 15.0
+Event ID 0 updated General Price to 6.25
+Event ID 0 updated Fireworks Planned to false
+Event ID 0 updated Venue Name to Magoffin Auditorium
+Event ID 0 updated ID to 56
+Event ID 56 updated Pct Seats Unavailable to 0.0
+Event ID 56 updated Venue Cost to 13536.0
+Event ID 56 updated VIP Pct to 5.0
+Event ID 56 updated Date to 10/10/21
+Event ID 56 updated Gold Pct to 10.0
+Event ID 56 updated Fireworks Cost to 0.0
+Event ID 56 updated Silver Price to 23.75
+Event ID 56 updated Bronze Pct to 20.0
+Event ID 0 updated Venue Object
+Event ID 0 updated General Pct to 45.0
+Event ID 0 updated Type to Concert
+Event ID 0 updated Gold Price to 215.0
+Event ID 0 updated Name to Warped Tour Day 1
+Event ID 0 updated Venue Capacity to 15000
+Event ID 0 updated Time to 9:00 AM
+Event ID 0 updated Reserved Pct to 5.0
+Event ID 0 updated Venue Type to Open Air
+Event ID 0 updated VIP Price to 325.0
+Event ID 0 updated Bronze Price to 125.0
+Event ID 0 updated Silver Pct to 15.0
+Event ID 0 updated General Price to 50.0
+Event ID 0 updated Fireworks Planned to true
+Event ID 0 updated Venue Name to San Jacinto Plaza
+Event ID 0 updated ID to 65
+Event ID 65 updated Pct Seats Unavailable to 0.0
+Event ID 65 updated Venue Cost to 176250.0
+Event ID 65 updated VIP Pct to 5.0
+Event ID 65 updated Date to 7/21/21
+Event ID 65 updated Gold Pct to 10.0
+Event ID 65 updated Fireworks Cost to 15000.0
+Event ID 65 updated Silver Price to 190.0
+Event ID 65 updated Bronze Pct to 20.0
+Event ID 0 updated Venue Object
+Event ID 0 updated General Pct to 45.0
+Event ID 0 updated Type to Concert
+Event ID 0 updated Gold Price to 215.0
+Event ID 0 updated Name to Warped Tour Day 2
+Event ID 0 updated Venue Capacity to 15000
+Event ID 0 updated Time to 9:00 AM
+Event ID 0 updated Reserved Pct to 5.0
+Event ID 0 updated Venue Type to Open Air
+Event ID 0 updated VIP Price to 325.0
+Event ID 0 updated Bronze Price to 125.0
+Event ID 0 updated Silver Pct to 15.0
+Event ID 0 updated General Price to 50.0
+Event ID 0 updated Fireworks Planned to true
+Event ID 0 updated Venue Name to San Jacinto Plaza
+Event ID 0 updated ID to 66
+Event ID 66 updated Pct Seats Unavailable to 0.0
+Event ID 66 updated Venue Cost to 176250.0
+Event ID 66 updated VIP Pct to 5.0
+Event ID 66 updated Date to 7/22/21
+Event ID 66 updated Gold Pct to 10.0
+Event ID 66 updated Fireworks Cost to 15000.0
+Event ID 66 updated Silver Price to 190.0
+Event ID 66 updated Bronze Pct to 20.0
+Event ID 0 updated Venue Object
+Event ID 0 updated General Pct to 45.0
+Event ID 0 updated Type to Concert
+Event ID 0 updated Gold Price to 215.0
+Event ID 0 updated Name to Warped Tour Day 3
+Event ID 0 updated Venue Capacity to 15000
+Event ID 0 updated Time to 9:00 AM
+Event ID 0 updated Reserved Pct to 5.0
+Event ID 0 updated Venue Type to Open Air
+Event ID 0 updated VIP Price to 325.0
+Event ID 0 updated Bronze Price to 125.0
+Event ID 0 updated Silver Pct to 15.0
+Event ID 0 updated General Price to 50.0
+Event ID 0 updated Fireworks Planned to true
+Event ID 0 updated Venue Name to San Jacinto Plaza
+Event ID 0 updated ID to 67
+Event ID 67 updated Pct Seats Unavailable to 0.0
+Event ID 67 updated Venue Cost to 176250.0
+Event ID 67 updated VIP Pct to 5.0
+Event ID 67 updated Date to 7/23/21
+Event ID 67 updated Gold Pct to 10.0
+Event ID 67 updated Fireworks Cost to 15000.0
+Event ID 67 updated Silver Price to 190.0
+Event ID 67 updated Bronze Pct to 20.0
+Event ID 0 updated Venue Object
+Event ID 0 updated General Pct to 45.0
+Event ID 0 updated Type to Sport
+Event ID 0 updated Gold Price to 26.1
+Event ID 0 updated Name to UTEP Football 1
+Event ID 0 updated Venue Capacity to 58000
+Event ID 0 updated Time to 7:05 PM
+Event ID 0 updated Reserved Pct to 5.0
+Event ID 0 updated Venue Type to Stadium
+Event ID 0 updated VIP Price to 30.45
+Event ID 0 updated Bronze Price to 18.85
+Event ID 0 updated Silver Pct to 15.0
+Event ID 0 updated General Price to 14.5
+Event ID 0 updated Fireworks Planned to false
+Event ID 0 updated Venue Name to Sun Bowl Stadium
+Event ID 0 updated ID to 1
+Event ID 1 updated Pct Seats Unavailable to 0.0
+Event ID 1 updated Venue Cost to 681500.0
+Event ID 1 updated VIP Pct to 5.0
+Event ID 1 updated Date to 9/4/21
+Event ID 1 updated Gold Pct to 10.0
+Event ID 1 updated Fireworks Cost to 0.0
+Event ID 1 updated Silver Price to 21.75
+Event ID 1 updated Bronze Pct to 20.0
+Event ID 0 updated Venue Object
+Event ID 0 updated General Pct to 45.0
+Event ID 0 updated Type to Sport
+Event ID 0 updated Gold Price to 26.1
+Event ID 0 updated Name to UTEP Football 2
+Event ID 0 updated Venue Capacity to 58000
+Event ID 0 updated Time to 7:05 PM
+Event ID 0 updated Reserved Pct to 5.0
+Event ID 0 updated Venue Type to Stadium
+Event ID 0 updated VIP Price to 30.45
+Event ID 0 updated Bronze Price to 18.85
+Event ID 0 updated Silver Pct to 15.0
+Event ID 0 updated General Price to 14.5
+Event ID 0 updated Fireworks Planned to true
+Event ID 0 updated Venue Name to Sun Bowl Stadium
+Event ID 0 updated ID to 2
+Event ID 2 updated Pct Seats Unavailable to 0.0
+Event ID 2 updated Venue Cost to 681500.0
+Event ID 2 updated VIP Pct to 5.0
+Event ID 2 updated Date to 9/11/21
+Event ID 2 updated Gold Pct to 10.0
+Event ID 2 updated Fireworks Cost to 16820.0
+Event ID 2 updated Silver Price to 21.75
+Event ID 2 updated Bronze Pct to 20.0
+Event ID 0 updated Venue Object
+Event ID 0 updated General Pct to 45.0
+Event ID 0 updated Type to Sport
+Event ID 0 updated Gold Price to 26.1
+Event ID 0 updated Name to UTEP Football 3
+Event ID 0 updated Venue Capacity to 58000
+Event ID 0 updated Time to 7:05 PM
+Event ID 0 updated Reserved Pct to 5.0
+Event ID 0 updated Venue Type to Stadium
+Event ID 0 updated VIP Price to 30.45
+Event ID 0 updated Bronze Price to 18.85
+Event ID 0 updated Silver Pct to 15.0
+Event ID 0 updated General Price to 14.5
+Event ID 0 updated Fireworks Planned to false
+Event ID 0 updated Venue Name to Sun Bowl Stadium
+Event ID 0 updated ID to 3
+Event ID 3 updated Pct Seats Unavailable to 0.0
+Event ID 3 updated Venue Cost to 681500.0
+Event ID 3 updated VIP Pct to 5.0
+Event ID 3 updated Date to 9/18/21
+Event ID 3 updated Gold Pct to 10.0
+Event ID 3 updated Fireworks Cost to 0.0
+Event ID 3 updated Silver Price to 21.75
+Event ID 3 updated Bronze Pct to 20.0
+Event ID 0 updated Venue Object
+Event ID 0 updated General Pct to 45.0
+Event ID 0 updated Type to Sport
+Event ID 0 updated Gold Price to 27.0
+Event ID 0 updated Name to UTEP Football 4
+Event ID 0 updated Venue Capacity to 58000
+Event ID 0 updated Time to 7:05 PM
+Event ID 0 updated Reserved Pct to 5.0
+Event ID 0 updated Venue Type to Stadium
+Event ID 0 updated VIP Price to 31.5
+Event ID 0 updated Bronze Price to 19.5
+Event ID 0 updated Silver Pct to 15.0
+Event ID 0 updated General Price to 15.0
+Event ID 0 updated Fireworks Planned to false
+Event ID 0 updated Venue Name to Sun Bowl Stadium
+Event ID 0 updated ID to 4
+Event ID 4 updated Pct Seats Unavailable to 0.0
+Event ID 4 updated Venue Cost to 681500.0
+Event ID 4 updated VIP Pct to 5.0
+Event ID 4 updated Date to 9/25/21
+Event ID 4 updated Gold Pct to 10.0
+Event ID 4 updated Fireworks Cost to 0.0
+Event ID 4 updated Silver Price to 22.5
+Event ID 4 updated Bronze Pct to 20.0
+Event ID 0 updated Venue Object
+Event ID 0 updated General Pct to 45.0
+Event ID 0 updated Type to Sport
+Event ID 0 updated Gold Price to 27.0
+Event ID 0 updated Name to UTEP Football 5
+Event ID 0 updated Venue Capacity to 58000
+Event ID 0 updated Time to 7:05 PM
+Event ID 0 updated Reserved Pct to 5.0
+Event ID 0 updated Venue Type to Stadium
+Event ID 0 updated VIP Price to 31.5
+Event ID 0 updated Bronze Price to 19.5
+Event ID 0 updated Silver Pct to 15.0
+Event ID 0 updated General Price to 15.0
+Event ID 0 updated Fireworks Planned to false
+Event ID 0 updated Venue Name to Sun Bowl Stadium
+Event ID 0 updated ID to 5
+Event ID 5 updated Pct Seats Unavailable to 0.0
+Event ID 5 updated Venue Cost to 681500.0
+Event ID 5 updated VIP Pct to 5.0
+Event ID 5 updated Date to 10/2/21
+Event ID 5 updated Gold Pct to 10.0
+Event ID 5 updated Fireworks Cost to 0.0
+Event ID 5 updated Silver Price to 22.5
+Event ID 5 updated Bronze Pct to 20.0
+Event ID 0 updated Venue Object
+Event ID 0 updated General Pct to 45.0
+Event ID 0 updated Type to Sport
+Event ID 0 updated Gold Price to 27.0
+Event ID 0 updated Name to UTEP Football 6
+Event ID 0 updated Venue Capacity to 58000
+Event ID 0 updated Time to 7:05 PM
+Event ID 0 updated Reserved Pct to 5.0
+Event ID 0 updated Venue Type to Stadium
+Event ID 0 updated VIP Price to 31.5
+Event ID 0 updated Bronze Price to 19.5
+Event ID 0 updated Silver Pct to 15.0
+Event ID 0 updated General Price to 15.0
+Event ID 0 updated Fireworks Planned to false
+Event ID 0 updated Venue Name to Sun Bowl Stadium
+Event ID 0 updated ID to 6
+Event ID 6 updated Pct Seats Unavailable to 0.0
+Event ID 6 updated Venue Cost to 681500.0
+Event ID 6 updated VIP Pct to 5.0
+Event ID 6 updated Date to 10/9/21
+Event ID 6 updated Gold Pct to 10.0
+Event ID 6 updated Fireworks Cost to 0.0
+Event ID 6 updated Silver Price to 22.5
+Event ID 6 updated Bronze Pct to 20.0
+Event ID 0 updated Venue Object
+Event ID 0 updated General Pct to 45.0
+Event ID 0 updated Type to Sport
+Event ID 0 updated Gold Price to 27.0
+Event ID 0 updated Name to UTEP Football 7
+Event ID 0 updated Venue Capacity to 58000
+Event ID 0 updated Time to 7:05 PM
+Event ID 0 updated Reserved Pct to 5.0
+Event ID 0 updated Venue Type to Stadium
+Event ID 0 updated VIP Price to 31.5
+Event ID 0 updated Bronze Price to 19.5
+Event ID 0 updated Silver Pct to 15.0
+Event ID 0 updated General Price to 15.0
+Event ID 0 updated Fireworks Planned to true
+Event ID 0 updated Venue Name to Sun Bowl Stadium
+Event ID 0 updated ID to 7
+Event ID 7 updated Pct Seats Unavailable to 0.0
+Event ID 7 updated Venue Cost to 681500.0
+Event ID 7 updated VIP Pct to 5.0
+Event ID 7 updated Date to 10/16/21
+Event ID 7 updated Gold Pct to 10.0
+Event ID 7 updated Fireworks Cost to 17400.0
+Event ID 7 updated Silver Price to 22.5
+Event ID 7 updated Bronze Pct to 20.0
+Event ID 0 updated Venue Object
+Event ID 0 updated General Pct to 45.0
+Event ID 0 updated Type to Sport
+Event ID 0 updated Gold Price to 28.8
+Event ID 0 updated Name to UTEP Football 8
+Event ID 0 updated Venue Capacity to 58000
+Event ID 0 updated Time to 7:05 PM
+Event ID 0 updated Reserved Pct to 5.0
+Event ID 0 updated Venue Type to Stadium
+Event ID 0 updated VIP Price to 33.6
+Event ID 0 updated Bronze Price to 20.8
+Event ID 0 updated Silver Pct to 15.0
+Event ID 0 updated General Price to 16.0
+Event ID 0 updated Fireworks Planned to true
+Event ID 0 updated Venue Name to Sun Bowl Stadium
+Event ID 0 updated ID to 8
+Event ID 8 updated Pct Seats Unavailable to 0.0
+Event ID 8 updated Venue Cost to 681500.0
+Event ID 8 updated VIP Pct to 5.0
+Event ID 8 updated Date to 10/23/21
+Event ID 8 updated Gold Pct to 10.0
+Event ID 8 updated Fireworks Cost to 18560.0
+Event ID 8 updated Silver Price to 24.0
+Event ID 8 updated Bronze Pct to 20.0
+Event ID 0 updated Venue Object
+Event ID 0 updated General Pct to 45.0
+Event ID 0 updated Type to Sport
+Event ID 0 updated Gold Price to 28.8
+Event ID 0 updated Name to UTEP Football 9
+Event ID 0 updated Venue Capacity to 58000
+Event ID 0 updated Time to 7:05 PM
+Event ID 0 updated Reserved Pct to 5.0
+Event ID 0 updated Venue Type to Stadium
+Event ID 0 updated VIP Price to 33.6
+Event ID 0 updated Bronze Price to 20.8
+Event ID 0 updated Silver Pct to 15.0
+Event ID 0 updated General Price to 16.0
+Event ID 0 updated Fireworks Planned to false
+Event ID 0 updated Venue Name to Sun Bowl Stadium
+Event ID 0 updated ID to 9
+Event ID 9 updated Pct Seats Unavailable to 0.0
+Event ID 9 updated Venue Cost to 681500.0
+Event ID 9 updated VIP Pct to 5.0
+Event ID 9 updated Date to 10/30/21
+Event ID 9 updated Gold Pct to 10.0
+Event ID 9 updated Fireworks Cost to 0.0
+Event ID 9 updated Silver Price to 24.0
+Event ID 9 updated Bronze Pct to 20.0
+Event ID 0 updated Venue Object
+Event ID 0 updated General Pct to 45.0
+Event ID 0 updated Type to Sport
+Event ID 0 updated Gold Price to 28.8
+Event ID 0 updated Name to UTEP Football 10
+Event ID 0 updated Venue Capacity to 58000
+Event ID 0 updated Time to 7:05 PM
+Event ID 0 updated Reserved Pct to 5.0
+Event ID 0 updated Venue Type to Stadium
+Event ID 0 updated VIP Price to 33.6
+Event ID 0 updated Bronze Price to 20.8
+Event ID 0 updated Silver Pct to 15.0
+Event ID 0 updated General Price to 16.0
+Event ID 0 updated Fireworks Planned to true
+Event ID 0 updated Venue Name to Sun Bowl Stadium
+Event ID 0 updated ID to 10
+Event ID 10 updated Pct Seats Unavailable to 0.0
+Event ID 10 updated Venue Cost to 681500.0
+Event ID 10 updated VIP Pct to 5.0
+Event ID 10 updated Date to 11/6/21
+Event ID 10 updated Gold Pct to 10.0
+Event ID 10 updated Fireworks Cost to 18560.0
+Event ID 10 updated Silver Price to 24.0
+Event ID 10 updated Bronze Pct to 20.0
+Event ID 0 updated Venue Object
+Event ID 0 updated General Pct to 45.0
+Event ID 0 updated Type to Sport
+Event ID 0 updated Gold Price to 28.8
+Event ID 0 updated Name to UTEP Football 11
+Event ID 0 updated Venue Capacity to 58000
+Event ID 0 updated Time to 7:05 PM
+Event ID 0 updated Reserved Pct to 5.0
+Event ID 0 updated Venue Type to Stadium
+Event ID 0 updated VIP Price to 33.6
+Event ID 0 updated Bronze Price to 20.8
+Event ID 0 updated Silver Pct to 15.0
+Event ID 0 updated General Price to 16.0
+Event ID 0 updated Fireworks Planned to false
+Event ID 0 updated Venue Name to Sun Bowl Stadium
+Event ID 0 updated ID to 11
+Event ID 11 updated Pct Seats Unavailable to 0.0
+Event ID 11 updated Venue Cost to 681500.0
+Event ID 11 updated VIP Pct to 5.0
+Event ID 11 updated Date to 11/13/21
+Event ID 11 updated Gold Pct to 10.0
+Event ID 11 updated Fireworks Cost to 0.0
+Event ID 11 updated Silver Price to 24.0
+Event ID 11 updated Bronze Pct to 20.0
+Event ID 0 updated Venue Object
+Event ID 0 updated General Pct to 45.0
+Event ID 0 updated Type to Sport
+Event ID 0 updated Gold Price to 28.8
+Event ID 0 updated Name to UTEP Football 12
+Event ID 0 updated Venue Capacity to 58000
+Event ID 0 updated Time to 7:05 PM
+Event ID 0 updated Reserved Pct to 5.0
+Event ID 0 updated Venue Type to Stadium
+Event ID 0 updated VIP Price to 33.6
+Event ID 0 updated Bronze Price to 20.8
+Event ID 0 updated Silver Pct to 15.0
+Event ID 0 updated General Price to 16.0
+Event ID 0 updated Fireworks Planned to true
+Event ID 0 updated Venue Name to Sun Bowl Stadium
+Event ID 0 updated ID to 12
+Event ID 12 updated Pct Seats Unavailable to 0.0
+Event ID 12 updated Venue Cost to 681500.0
+Event ID 12 updated VIP Pct to 5.0
+Event ID 12 updated Date to 11/20/21
+Event ID 12 updated Gold Pct to 10.0
+Event ID 12 updated Fireworks Cost to 18560.0
+Event ID 12 updated Silver Price to 24.0
+Event ID 12 updated Bronze Pct to 20.0
+Event ID 0 updated Venue Object
+Event ID 0 updated General Pct to 45.0
+Event ID 0 updated Type to Sport
+Event ID 0 updated Gold Price to 32.4
+Event ID 0 updated Name to UTEP Football 13
+Event ID 0 updated Venue Capacity to 58000
+Event ID 0 updated Time to 7:05 PM
+Event ID 0 updated Reserved Pct to 5.0
+Event ID 0 updated Venue Type to Stadium
+Event ID 0 updated VIP Price to 37.8
+Event ID 0 updated Bronze Price to 23.4
+Event ID 0 updated Silver Pct to 15.0
+Event ID 0 updated General Price to 18.0
+Event ID 0 updated Fireworks Planned to false
+Event ID 0 updated Venue Name to Sun Bowl Stadium
+Event ID 0 updated ID to 13
+Event ID 13 updated Pct Seats Unavailable to 0.0
+Event ID 13 updated Venue Cost to 681500.0
+Event ID 13 updated VIP Pct to 5.0
+Event ID 13 updated Date to 11/27/21
+Event ID 13 updated Gold Pct to 10.0
+Event ID 13 updated Fireworks Cost to 0.0
+Event ID 13 updated Silver Price to 27.0
+Event ID 13 updated Bronze Pct to 20.0
+Event ID 0 updated Venue Object
+Event ID 0 updated General Pct to 45.0
+Event ID 0 updated Type to Concert
+Event ID 0 updated Gold Price to 482.98
+Event ID 0 updated Name to Taylor Swift Live
+Event ID 0 updated Venue Capacity to 64000
+Event ID 0 updated Time to 8:00 PM
+Event ID 0 updated Reserved Pct to 5.0
+Event ID 0 updated Venue Type to Stadium
+Event ID 0 updated VIP Price to 730.08
+Event ID 0 updated Bronze Price to 280.8
+Event ID 0 updated Silver Pct to 15.0
+Event ID 0 updated General Price to 112.32
+Event ID 0 updated Fireworks Planned to true
+Event ID 0 updated Venue Name to Sun Bowl Stadium
+Event ID 0 updated ID to 57
+Event ID 57 updated Pct Seats Unavailable to 4.0
+Event ID 57 updated Venue Cost to 752000.0
+Event ID 57 updated VIP Pct to 5.0
+Event ID 57 updated Date to 2/19/22
+Event ID 57 updated Gold Pct to 10.0
+Event ID 57 updated Fireworks Cost to 143770.0
+Event ID 57 updated Silver Price to 426.82
+Event ID 57 updated Bronze Pct to 20.0
+Event ID 0 updated Venue Object
+Event ID 0 updated General Pct to 45.0
+Event ID 0 updated Type to Concert
+Event ID 0 updated Gold Price to 495.15
+Event ID 0 updated Name to Ariana Grande Live
+Event ID 0 updated Venue Capacity to 64000
+Event ID 0 updated Time to 8:00 PM
+Event ID 0 updated Reserved Pct to 5.0
+Event ID 0 updated Venue Type to Stadium
+Event ID 0 updated VIP Price to 748.48
+Event ID 0 updated Bronze Price to 287.88
+Event ID 0 updated Silver Pct to 15.0
+Event ID 0 updated General Price to 115.15
+Event ID 0 updated Fireworks Planned to true
+Event ID 0 updated Venue Name to Sun Bowl Stadium
+Event ID 0 updated ID to 60
+Event ID 60 updated Pct Seats Unavailable to 4.0
+Event ID 60 updated Venue Cost to 752000.0
+Event ID 60 updated VIP Pct to 5.0
+Event ID 60 updated Date to 9/2/21
+Event ID 60 updated Gold Pct to 10.0
+Event ID 60 updated Fireworks Cost to 147392.0
+Event ID 60 updated Silver Price to 437.57
+Event ID 60 updated Bronze Pct to 20.0
+Event ID 0 updated Venue Object
+Event ID 0 updated General Pct to 45.0
+Event ID 0 updated Type to Concert
+Event ID 0 updated Gold Price to 442.21
+Event ID 0 updated Name to Lady Gaga Live
+Event ID 0 updated Venue Capacity to 64000
+Event ID 0 updated Time to 8:00 PM
+Event ID 0 updated Reserved Pct to 5.0
+Event ID 0 updated Venue Type to Stadium
+Event ID 0 updated VIP Price to 668.46
+Event ID 0 updated Bronze Price to 257.1
+Event ID 0 updated Silver Pct to 15.0
+Event ID 0 updated General Price to 102.84
+Event ID 0 updated Fireworks Planned to true
+Event ID 0 updated Venue Name to Sun Bowl Stadium
+Event ID 0 updated ID to 63
+Event ID 63 updated Pct Seats Unavailable to 4.0
+Event ID 63 updated Venue Cost to 752000.0
+Event ID 63 updated VIP Pct to 5.0
+Event ID 63 updated Date to 10/29/21
+Event ID 63 updated Gold Pct to 10.0
+Event ID 63 updated Fireworks Cost to 131636.0
+Event ID 63 updated Silver Price to 390.79
+Event ID 63 updated Bronze Pct to 20.0
+Event ID 0 updated Venue Object
+Event ID 0 updated General Pct to 45.0
+Event ID 0 updated Type to Concert
+Event ID 0 updated Gold Price to 464.49
+Event ID 0 updated Name to Justin Timberlake Live
+Event ID 0 updated Venue Capacity to 64000
+Event ID 0 updated Time to 8:00 PM
+Event ID 0 updated Reserved Pct to 5.0
+Event ID 0 updated Venue Type to Stadium
+Event ID 0 updated VIP Price to 702.13
+Event ID 0 updated Bronze Price to 270.05
+Event ID 0 updated Silver Pct to 15.0
+Event ID 0 updated General Price to 108.02
+Event ID 0 updated Fireworks Planned to false
+Event ID 0 updated Venue Name to Sun Bowl Stadium
+Event ID 0 updated ID to 64
+Event ID 64 updated Pct Seats Unavailable to 4.0
+Event ID 64 updated Venue Cost to 752000.0
+Event ID 64 updated VIP Pct to 5.0
+Event ID 64 updated Date to 5/20/22
+Event ID 64 updated Gold Pct to 10.0
+Event ID 64 updated Fireworks Cost to 0.0
+Event ID 64 updated Silver Price to 410.48
+Event ID 64 updated Bronze Pct to 20.0
+Event ID 1 displayed minimal event details.
+Event ID 2 displayed minimal event details.
+Event ID 3 displayed minimal event details.
+Event ID 4 displayed minimal event details.
+Event ID 5 displayed minimal event details.
+Event ID 6 displayed minimal event details.
+Event ID 7 displayed minimal event details.
+Event ID 8 displayed minimal event details.
+Event ID 9 displayed minimal event details.
+Event ID 10 displayed minimal event details.
+Event ID 11 displayed minimal event details.
+Event ID 12 displayed minimal event details.
+Event ID 13 displayed minimal event details.
+Event ID 14 displayed minimal event details.
+Event ID 15 displayed minimal event details.
+Event ID 16 displayed minimal event details.
+Event ID 17 displayed minimal event details.
+Event ID 18 displayed minimal event details.
+Event ID 19 displayed minimal event details.
+Event ID 20 displayed minimal event details.
+Event ID 21 displayed minimal event details.
+Event ID 22 displayed minimal event details.
+Event ID 23 displayed minimal event details.
+Event ID 24 displayed minimal event details.
+Event ID 25 displayed minimal event details.
+Event ID 26 displayed minimal event details.
+Event ID 27 displayed minimal event details.
+Event ID 28 displayed minimal event details.
+Event ID 29 displayed minimal event details.
+Event ID 30 displayed minimal event details.
+Event ID 31 displayed minimal event details.
+Event ID 32 displayed minimal event details.
+Event ID 33 displayed minimal event details.
+Event ID 34 displayed minimal event details.
+Event ID 35 displayed minimal event details.
+Event ID 36 displayed minimal event details.
+Event ID 37 displayed minimal event details.
+Event ID 38 displayed minimal event details.
+Event ID 39 displayed minimal event details.
+Event ID 40 displayed minimal event details.
+Event ID 41 displayed minimal event details.
+Event ID 42 displayed minimal event details.
+Event ID 43 displayed minimal event details.
+Event ID 44 displayed minimal event details.
+Event ID 45 displayed minimal event details.
+Event ID 46 displayed minimal event details.
+Event ID 47 displayed minimal event details.
+Event ID 48 displayed minimal event details.
+Event ID 49 displayed minimal event details.
+Event ID 50 displayed minimal event details.
+Event ID 51 displayed minimal event details.
+Event ID 52 displayed minimal event details.
+Event ID 53 displayed minimal event details.
+Event ID 54 displayed minimal event details.
+Event ID 55 displayed minimal event details.
+Event ID 56 displayed minimal event details.
+Event ID 57 displayed minimal event details.
+Event ID 58 displayed minimal event details.
+Event ID 59 displayed minimal event details.
+Event ID 60 displayed minimal event details.
+Event ID 61 displayed minimal event details.
+Event ID 62 displayed minimal event details.
+Event ID 63 displayed minimal event details.
+Event ID 64 displayed minimal event details.
+Event ID 65 displayed minimal event details.
+Event ID 66 displayed minimal event details.
+Event ID 67 displayed minimal event details.
+Event ID 68 displayed minimal event details.
+Event ID 68 displayed minimal event details.
+Event ID 69 displayed minimal event details.
+Event ID 70 displayed minimal event details.
+Event ID 71 displayed minimal event details.
+Event ID 22 displayed event prices.
+Event ID 22 updated VIP Seats Sold to 1
+Event ID 22 updated Seats Sold to 1
+Event ID 22 updated VIP Seats Sold to 2
+Event ID 22 updated Seats Sold to 2
+Event ID 22 updated VIP Seats Sold to 3
+Event ID 22 updated Seats Sold to 3
+Event ID 22 updated VIP Seats Sold to 4
+Event ID 22 updated Seats Sold to 4
+Event ID 22 updated VIP Seats Sold to 5
+Event ID 22 updated Seats Sold to 5
+Event ID 22 updated VIP Seats Sold to 6
+Event ID 22 updated Seats Sold to 6

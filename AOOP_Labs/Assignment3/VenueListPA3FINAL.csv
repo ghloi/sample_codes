@@ -1,0 +1,7 @@
+ID,Name,Type,Capacity,Concert Capacity,Cost,VIP Pct,Gold Pct,Silver Pct,Bronze Pct,General Admission Pct,Reserved Extra Pct
+1,Don Haskins Center,Arena,12800,14000,150400,5,10,15,20,45,5
+2,Sun Bowl Stadium,Stadium,58000,64000,681500,5,10,15,20,45,5
+3,Magoffin Auditorium,Auditorium,1152,1152,13536,5,10,15,20,45,5
+4,San Jacinto Plaza,Open Air,15000,15000,176250,5,10,15,20,45,5
+5,El Paso County Coliseum,Arena,5250,7000,61687.5,5,10,15,20,45,5
+6,Centenial Plaza,Open Air,5000,5000,58750,5,10,15,20,45,5

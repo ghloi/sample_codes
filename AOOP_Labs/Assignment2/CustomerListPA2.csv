@@ -1,0 +1,37 @@
+ID,First Name,Last Name,Money Available,Concerts Purchased,TicketMiner Membership,Username,Password
+1,Mickey,Mouse,2828.34,0,false,mickeymouse,Fun!23
+2,Donald,Duck,2204.23,0,true,donaldduck,Fun!23
+3,Minnie,Mouse,2670.51,0,false,minniemouse,Fun!23
+4,Goofy,Disney,1565.25,0,false,goofydisney,Fun!23
+5,Pluto,Disney,791.5,0,false,plutodisney,Fun!23
+6,Chip,Disney,2305.8,0,false,chipdisney,Fun!23
+7,Dale,Disney,1254.55,0,false,daledisney,Fun!23
+8,Cinderella,Disney,1103.79,0,false,cinderelladisney,Fun!23
+9,Ariel,Disney,1750.72,0,false,arieldisney,Fun!23
+10,Jasmine,Disney,1944.48,0,true,jasminedisney,Fun!23
+11,Aladdin,Disney,3310.98,0,false,aladdindisney,Fun!23
+12,Simba,Disney,3155.06,0,false,simbadisney,Fun!23
+13,Mufassa,Disney,2499.76,0,true,mufassadisney,Fun!23
+14,Aurora,Disney,381.66,0,true,auroradisney,Fun!23
+15,Peter,Pan,3152.19,0,true,peterpan,Fun!23
+16,Woody,Disney,1901.93,0,false,woodydisney,Fun!23
+17,Buzz,Lightyear,337.14,0,true,buzzlightyear,Fun!23
+18,Jafar,Aladdin,2594.9,0,false,jafaraladdin,Fun!23
+19,Ursela,Mermaid,1293.4,0,false,urselamermaid,Fun!23
+20,Beast,Disney,942.72,0,true,beastdisney,Fun!23
+21,Belle,Disney,219.21,0,false,belledisney,Fun!23
+22,Cruella,De Vil,636.32,0,false,cruellade vil,Fun!23
+23,Scar,Lion,2249.44,0,true,scarlion,Fun!23
+24,Simba,King,1603.61,0,false,simbaking,Fun!23
+25,Gaston,Disney,1861.49,0,true,gastondisney,Fun!23
+26,Shere,Khan,927.38,0,false,sherekhan,Fun!23
+27,Captaiin,Hook,2243.23,0,true,captaiinhook,Fun!23
+28,Kaa,Disney,880.57,0,false,kaadisney,Fun!23
+29,Evil,Queen,2459.29,0,false,evilqueen,Fun!23
+30,Pinocchio,Disney,212.2,0,false,pinocchiodisney,Fun!23
+31,Prince,Eric,3023.57,0,true,princeeric,Fun!23
+32,Quasimodo,Disney,1959.21,0,false,quasimododisney,Fun!23
+33,Hercules,Disney,738.55,0,true,herculesdisney,Fun!23
+34,Mulan,Disney,200.02,0,true,mulandisney,Fun!23
+35,Lilo,Disney,2141.5,0,false,lilodisney,Fun!23
+36,Stitch,Disney,1572.15,0,true,stitchdisney,Fun!23

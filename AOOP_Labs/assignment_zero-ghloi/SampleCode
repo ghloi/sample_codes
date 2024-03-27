@@ -1,0 +1,11 @@
+#Gregorio Loi
+/* Author: *****
+Instructor: Dr. Daniel M. Mejia
+* CS3331
+*/
+
+public class SampleCode{
+  public static void main( String []args){
+    System.out.println("Please addd your name in the header and push it back");
+  }
+}
